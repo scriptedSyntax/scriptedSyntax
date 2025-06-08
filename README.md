@@ -20,7 +20,6 @@ A simple, interactive chatbot that showcases your skills and experience, built w
 
 Before you begin, make sure you have:
 
-* A **GitHub** account → [Sign up](https://github.com/join)
 * **Python 3.8+** installed → [Download Python](https://www.python.org/downloads/)
 * **pip** installed (usually comes with Python)
 
