@@ -6,6 +6,12 @@ A simple, interactive chatbot that showcases your skills and experience, built w
 ✅ Deployable for **free** in under 10 minutes
 
 ---
+✅ By the time you are done! Your chatbot will be live on a `streamlit.app` link like:
+
+```
+https://app.snowflake.com/me-central2.gcp/ns67402/#/streamlit-apps/MYCHATBOT.PUBLIC.LDH2IEIT3XZQ6QVW?ref=snowsight_shared
+```
+
 
 ## ⚙️ Tech Stack
 
