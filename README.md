@@ -1,52 +1,74 @@
-# ⚡🐍 Samuel – Python Dev Who Builds Systems That Actually Work 🚀  
+# ⚡🐍 **Samuel Mwangi Ngonjo** – Systems Engineer & Full-Stack Developer  
 
-I don’t do fluff. I write **Python**, and I build systems that don’t fall apart when people actually use them.  
-
-🔥 Think:  
-- 🏗️ Backends that scale without crying  
-- 🔌 APIs that play nice together  
-- 🤖 Automations so you don’t waste time on boring stuff  
-- ⚡ Prototypes that turn into real products (fast)  
+> I build systems that *work*, stay online, and scale when they need to.  
 
 ---
 
-## 🐍 My main stack  
-Python is home base. Clean, efficient, and production-ready.  
+## 🚀 What I Do
 
-But I’m not stuck in one lane:  
-- 💻 **JavaScript / HTML / CSS** (for the web stuff)  
-- 🗄️ **SQL** (because data always needs love)  
-- 🌐 **Node / PHP / Java** (when the stack gets messy)  
+I blend **biomedical engineering** and **software development** — building systems that power real-world operations.  
+
+🧠 From **hospital hardware maintenance** to **backend automation**, I keep tech running where failure isn’t an option.  
 
 ---
 
-## 🔨 Things I’ve actually built  
-- 🛠️ SaaS platforms that don’t choke under traffic  
-- ⚡ AI prototypes on stupid short deadlines  
-- 🩺 APIs wired into healthcare, 📚 education, and 🛒 e-com (where you can’t screw up)  
-- 🎓 LMS systems with chatbot tutors, auto-grading, and role-based access  
-- 🧑‍💻 Avatar-based onboarding + training with **D-ID + Synthesia**  
+## 🧩 My Core Stack
+
+| Area | Tech |
+|------|------|
+| **Languages** | Python 🐍, JavaScript 💻, SQL 🗄️, PHP, Java |
+| **Frameworks** | Django, Streamlit, Node.js |
+| **Frontend** | TailwindCSS, Bootstrap, HTML5/CSS3, React (light use), Astro |
+| **APIs / Tools** | OpenAI API, Postman |
+| **Data / Infra** | PostgreSQL, GitHub |
 
 ---
 
-## 🧰 My toolbox  
+## 🧱 Things I’ve Built
+
+✅ **SaaS platforms** that don’t break under load  
+✅ **AI prototypes** built on tight deadlines  
+✅ **Healthcare & Education APIs** (reliable, secure, fast)  
+✅ **Learning systems** with chatbots, automation & analytics  
+✅ **Onboarding tools** with avatars via **D-ID + Synthesia**  
+
+---
+
+## 🛠️ My Toolbox
+
 - 🐍 Python / Django / Streamlit  
-- 🔥 Firebase / Google Colab  
 - 🤖 OpenAI API / LangChain  
-- 🛠️ GitHub / Postman  
-- 🎨 Tailwind / Bootstrap / a sprinkle of React  
+- 🛠️ Git / Postman  
+- 🎨 Tailwind / Bootstrap  
 
 ---
 
-## 🎥 Check my work  
-- 🐙 GitHub → [github.com/scriptedSyntax](https://github.com/scriptedSyntax)  
-- 📺 YouTube → [youtube.com/@SamPlifiedBytes](https://www.youtube.com/@SamPlifiedBytes)  
+## 🌍 Find Me Online
+
+| Platform | Link |
+|-----------|------|
+| 🐙 **GitHub** | [github.com/scriptedSyntax](https://github.com/scriptedSyntax) |
+| 💼 **LinkedIn** | [linkedin.com/in/samuel-mwangi-11597a245](https://linkedin.com/in/samuel-mwangi-11597a245) |
+| 📺 **YouTube** | [youtube.com/@SamPlifiedBytes](https://www.youtube.com/@SamPlifiedBytes) |
+| ✉️ **Email** | [samuelmwas262@gmail.com](mailto:samuelmwas262@gmail.com) |
 
 ---
 
-## 👾 Why work with me?  
-- ⚡ I move fast  
-- 🧹 My code stays clean  
-- 🏆 I build things that don’t just *look cool* — they hold up under pressure  
+## 🧠 Why Work With Me?
 
-💼 Long-term collabs or one-off builds → I’m game. Let’s ship. 🚀  
+- ⚡ I ship fast and iterate clean  
+- 🧹 My systems don’t crumble under real use  
+- 🩺 Engineering precision meets dev efficiency  
+- 💬 I build, test, and deploy without noise  
+
+> Let’s build something reliable — not just another app.  
+
+---
+
+### 🧾 Contact  
+💬 **Reach out:** [samuelmwas262@gmail.com](mailto:samuelmwas262@gmail.com)  
+🐙 **Code:** [github.com/scriptedSyntax](https://github.com/scriptedSyntax)
+
+---
+
+#### _“MAKE HEALTHCARE TECH THAT WORKS — AND KEEPS WORKING.”_
