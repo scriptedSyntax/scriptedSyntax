@@ -71,4 +71,4 @@ I blend **biomedical engineering** and **software development** — building sys
 
 ---
 
-#### _“MAKE HEALTHCARE TECH THAT WORKS — AND KEEPS WORKING.”_
+#### _“I MAKE HEALTHCARE TECH THAT WORKS — AND KEEPS WORKING.”_
