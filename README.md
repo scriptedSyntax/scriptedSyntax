@@ -1,4 +1,4 @@
-# ⚡🐍 **Samuel Mwangi Ngonjo** – Systems Engineer & Full-Stack Developer  
+# ⚡🐍 **Samuel Mwangi** – Systems Engineer & Full-Stack Developer  
 
 > I build systems that *work*, stay online, and scale when they need to.  
 
