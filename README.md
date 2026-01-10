@@ -93,7 +93,8 @@ I combine a **biomedical engineering foundation** with **software and systems en
 - **GitHub:** https://github.com/scriptedSyntax  
 - **LinkedIn:** https://www.linkedin.com/in/samuel-mwangi-11597a245  
 - **YouTube:** https://www.youtube.com/@SamPlifiedBytes  
-- **Email:** samuelmwas262@gmail.com  
+- **Email:** samuelmwas262@gmail.com
+- **Portfolio:** https://scriptedsyntax.github.io/portfolio
 
 ---
 
