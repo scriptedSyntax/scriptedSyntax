@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
   <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
   <a href="mailto:samuelmwas262@gmail.com">Email</a>
+  <a href="https://scriptedsyntax.github.io/portfolio/#repos"> Portfolio</a>
 </p>
 
 <p align="center">
