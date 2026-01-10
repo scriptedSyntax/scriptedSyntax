@@ -1,74 +1,108 @@
-# ⚡🐍 **Samuel Mwangi** – Developer  
+<!-- ===================================================== -->
+<!--  Samuel Mwangi — Tech Growth Engineer (About)          -->
+<!-- ===================================================== -->
 
-> I build systems that *work*, stay online, and scale when they need to.  
+<h1 align="center">Samuel Mwangi</h1>
+<p align="center"><strong>Tech Growth Engineer — Software & Systems</strong></p>
 
----
+<p align="center">
+  <a href="https://github.com/scriptedSyntax">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
+  <a href="mailto:samuelmwas262@gmail.com">Email</a>
+</p>
 
-## 🚀 What I Do
-
-I blend **biomedical engineering** and **software development** — building systems that power real-world operations.  
-
-🧠 From **hospital hardware maintenance** to **backend automation**, I keep tech running where failure isn’t an option.  
-
----
-
-## 🧩 My Core Stack
-
-| Area | Tech |
-|------|------|
-| **Languages** | Python 🐍, JavaScript 💻, SQL 🗄️, PHP, Java |
-| **Frameworks** | Django, Streamlit, Node.js |
-| **Frontend** | TailwindCSS, Bootstrap, HTML5/CSS3, React (light use), Astro |
-| **APIs / Tools** | OpenAI API, Postman |
-| **Data / Infra** | PostgreSQL, GitHub |
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Systems-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Enabled_Platforms-2f66ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure-Ready-0078D4?style=flat-square" />
+</p>
 
 ---
 
-## 🧱 Things I’ve Built
+## Overview
 
-✅ **SaaS platforms** that don’t break under load  
-✅ **AI prototypes** built on tight deadlines  
-✅ **Healthcare & Education APIs** (reliable, secure, fast)  
-✅ **Learning systems** with chatbots, automation & analytics  
-✅ **Onboarding tools** with avatars via **D-ID + Synthesia**  
+I design and build backend systems that are **reliable, maintainable, and ready for real-world operations**.  
+My work focuses on **automation, backend engineering, and operational platforms** where uptime, data integrity, and scalability matter.
 
----
-
-## 🛠️ My Toolbox
-
-- 🐍 Python / Django / Streamlit  
-- 🤖 OpenAI API / LangChain  
-- 🛠️ Git / Postman  
-- 🎨 Tailwind / Bootstrap  
+I combine a **biomedical engineering foundation** with **software and systems engineering**, bridging physical systems, data, and software in environments where failure is not an option.
 
 ---
 
-## 🌍 Find Me Online
+## What I Do
 
-| Platform | Link |
-|-----------|------|
-| 🐙 **GitHub** | [github.com/scriptedSyntax](https://github.com/scriptedSyntax) |
-| 💼 **LinkedIn** | [linkedin.com/in/samuel-mwangi-11597a245](https://linkedin.com/in/samuel-mwangi-11597a245) |
-| 📺 **YouTube** | [youtube.com/@SamPlifiedBytes](https://www.youtube.com/@SamPlifiedBytes) |
-| ✉️ **Email** | [samuelmwas262@gmail.com](mailto:samuelmwas262@gmail.com) |
-
----
-
-## 🧠 Why Work With Me?
-
-- ⚡ I ship fast and iterate clean  
-- 🧹 My systems don’t crumble under real use  
-- 🩺 Engineering precision meets dev efficiency  
-- 💬 I build, test, and deploy without noise  
-
-> Let’s build something reliable — not just another app.  
+- Build **production-grade backend platforms**
+- Replace manual processes with **automation**
+- Design systems for **reliability, scale, and long-term maintainability**
+- Support **operational and healthcare-adjacent systems**
+- Integrate **AI capabilities** into practical workflows
 
 ---
 
-### 🧾 Contact  
-💬 **Reach out:** [samuelmwas262@gmail.com](mailto:samuelmwas262@gmail.com)  
-🐙 **Code:** [github.com/scriptedSyntax](https://github.com/scriptedSyntax)
+## Core Technical Focus
+
+### Backend Engineering & Integrations
+- Python (Django, Flask, FastAPI)
+- RESTful APIs and backend architecture
+- Authentication, security, data interoperability
+- AI-enabled backend systems
+
+### Automation & Operational Systems
+- Workflow automation and system optimization
+- CI/CD pipelines, logging, monitoring
+- API-driven process improvement
+- CMMS and health-tech system digitization
+
+### Data & Infrastructure
+- PostgreSQL, MySQL, SQLite, Firebase
+- Data pipelines and analytics workflows (Pandas, NumPy)
+- Linux, Git, container-ready environments
+- Device connectivity and IoT integrations
+
+### AI Platforms & Cloud
+- Azure App Services (deployment & scaling)
+- Azure AI Search & Document Intelligence (integration exposure)
+- Prompt-based workflows & AI orchestration
+- AI-backed document processing and semantic search
 
 ---
 
-#### _“I MAKE HEALTHCARE TECH THAT WORKS — AND KEEPS WORKING.”_
+## Systems I’ve Built
+
+- **Management systems** supporting real operations
+- **Backend platforms** designed for reliability and uptime
+- **Automation tools** that eliminate manual workflows
+- **Healthcare & operational APIs** with strong security constraints
+- **AI-enabled systems** for document processing and search
+
+---
+
+## Professional Strengths
+
+- Strong systems thinking and operational awareness
+- Clear communication across technical and non-technical teams
+- End-to-end ownership: design → build → deploy
+- Accurate documentation, SOP development, compliance support
+- Field-tested in environments where reliability matters
+
+---
+
+## Online Presence
+
+- **GitHub:** https://github.com/scriptedSyntax  
+- **LinkedIn:** https://www.linkedin.com/in/samuel-mwangi-11597a245  
+- **YouTube:** https://www.youtube.com/@SamPlifiedBytes  
+- **Email:** samuelmwas262@gmail.com  
+
+---
+
+## Why Work With Me
+
+I focus on building systems that **work consistently**, scale responsibly, and remain maintainable long after delivery.
+
+No noise.  
+No over-engineering.  
+Just dependable software built for real use.
+
+> _Let’s build systems that last._
