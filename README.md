@@ -1,16 +1,11 @@
-<!-- ===================================================== -->
-<!--  Samuel Mwangi — Tech Growth Engineer (About)          -->
-<!-- ===================================================== -->
-
 <h1 align="center">Samuel Mwangi</h1>
 <p align="center"><strong>Tech Growth Engineer — Software & Systems</strong></p>
 
 <p align="center">
-  <a href="https://github.com/scriptedSyntax">GitHub</a> ·
+  <a href="https://scriptedsyntax.github.io/portfolio/#repos">Personal Portfolio</a> ·
   <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
   <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
   <a href="mailto:samuelmwas262@gmail.com">Email</a> ·
-  <a href="https://scriptedsyntax.github.io/portfolio/#repos"> Portfolio</a>
 </p>
 
 <p align="center">
