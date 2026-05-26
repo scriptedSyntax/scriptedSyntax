@@ -2,7 +2,7 @@
 <p align="center"><strong>Tech Growth Engineer — Software & Systems</strong></p>
 
 <p align="center">
-  <a href="https://scriptedsyntax.github.io/portfolio/#repos">Personal Portfolio</a> ·
+  <a href="https://scriptedsyntax.github.io/site/">Personal Portfolio</a> ·
   <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
   <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
   <a href="mailto:samuelmwas262@gmail.com">Email</a> ·
