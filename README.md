@@ -1,34 +1,101 @@
-<h1 align="center">Samuel Mwangi Ngonjo</h1>
+```markdown
+<!-- =========================================================
+     SAMUEL MWANGI NGONJO — GITHUB PROFILE README
+
+     Required files in repository root:
+     README.md
+     samuel-mwangi-profile.jpg
+
+     The circular profile image is loaded from:
+     https://raw.githubusercontent.com/scriptedSyntax/scriptedSyntax/main/samuel-mwangi-profile.jpg
+
+     The blue check below is decorative and represents a
+     completed professional profile. It is not GitHub verification.
+========================================================== -->
 
 <p align="center">
   <img
-    src="./assets/samuel-mwangi-profile.jpg"
-    width="155"
+    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Biomedical%20Engineering%20Technologist%20%7C%20Health-Tech%20Developer&descAlignY=58&descSize=15"
+    width="100%"
+    alt="Samuel Mwangi Ngonjo profile banner"
+  />
+</p>
+
+<!-- Circular LinkedIn-style profile photo -->
+
+<p align="center">
+  <img
+    src="https://wsrv.nl/?url=raw.githubusercontent.com/scriptedSyntax/scriptedSyntax/main/samuel-mwangi-profile.jpg&w=220&h=220&fit=cover&a=attention&mask=circle&output=png"
+    width="185"
+    height="185"
     alt="Samuel Mwangi Ngonjo profile photo"
   />
 </p>
 
+<!-- Decorative professional check badge -->
+
 <p align="center">
-  <strong>Biomedical Engineering Technologist | Health-Tech Developer | Medical Devices & Software Integration</strong>
+  <img
+    src="https://img.shields.io/badge/Professional_Profile-%E2%9C%93-0A66C2?style=for-the-badge"
+    alt="Professional profile check"
+  />
+</p>
+
+<h1 align="center">Samuel Mwangi Ngonjo</h1>
+
+<p align="center">
+  <strong>
+    Biomedical Engineering Technologist · Health-Tech Developer · Medical Devices & Software Integration
+  </strong>
 </p>
 
 <p align="center">
-  <a href="https://scriptedsyntax.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
-  <a href="mailto:samuel.mwas97@gmail.com">Email</a>
+  I connect biomedical engineering, clinical systems and software to build practical technology for real healthcare and operational needs.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Medical_Devices-Clinical_Systems-276044?style=flat-square" alt="Medical Devices and Clinical Systems" />
-  <img src="https://img.shields.io/badge/HealthTech-Software_Integration-3b7a57?style=flat-square" alt="Health Technology and Software Integration" />
-  <img src="https://img.shields.io/badge/Python-Django-3776AB?style=flat-square" alt="Python and Django" />
-  <img src="https://img.shields.io/badge/Hardware-Software_Integration-5b876b?style=flat-square" alt="Hardware and Software Integration" />
+  <a href="https://scriptedsyntax.github.io/portfolio/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-View_Work-276044?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:samuel.mwas97@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Medical_Devices-Clinical_Systems-276044?style=flat-square"
+    alt="Medical Devices and Clinical Systems"
+  />
+  <img
+    src="https://img.shields.io/badge/HealthTech-Software_Integration-3B7A57?style=flat-square"
+    alt="Health Technology and Software Integration"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-Django-3776AB?style=flat-square&logo=python&logoColor=white"
+    alt="Python and Django"
+  />
+  <img
+    src="https://img.shields.io/badge/Hardware-Software_Integration-5B876B?style=flat-square"
+    alt="Hardware and Software Integration"
+  />
 </p>
 
 ---
 
-## Overview
+## Professional Overview
 
 I am a **Biomedical Engineering Technologist and health-technology developer** working across medical devices, clinical systems, healthcare software and hardware-software integration.
 
@@ -36,16 +103,43 @@ My background combines practical biomedical engineering exposure in hospital env
 
 I currently work as a **Senior Software Engineer at GONEP Pharmaceuticals**, contributing to healthcare software, internal systems, automation and technology initiatives connecting digital workflows with healthcare operations.
 
+My strongest value is the ability to understand both sides of healthcare technology:
+
+- The physical medical equipment used in clinical environments
+- The digital systems required to manage data, workflows, maintenance and reporting
+
 ---
 
 ## What I Do
 
-* Support the development of **healthcare and clinical technology systems**
-* Build backend applications using **Python, Django and REST APIs**
-* Connect medical-device requirements with practical software workflows
-* Develop automation tools for operational and healthcare processes
-* Support equipment information, maintenance and reporting systems
-* Produce structured technical documentation and system workflows
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Biomedical Engineering
+
+- Support medical-device and clinical technology systems
+- Perform equipment inspection and technical troubleshooting
+- Apply preventive-maintenance principles
+- Support medical-device quality assurance
+- Work with technical records and documentation
+- Understand hospital utility and clinical environments
+
+    </td>
+    <td width="50%" valign="top">
+
+### Healthcare Software
+
+- Build backend applications using Python and Django
+- Develop REST APIs and database-driven systems
+- Implement authentication and role-based access
+- Automate operational and healthcare workflows
+- Develop equipment and maintenance-tracking systems
+- Connect device requirements with software processes
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,73 +147,254 @@ I currently work as a **Senior Software Engineer at GONEP Pharmaceuticals**, con
 
 ### Biomedical Engineering & Clinical Systems
 
-* Medical-device support and technical troubleshooting
-* Preventive maintenance and equipment inspection
-* Clinical engineering and hospital technology environments
-* Medical-device quality assurance and electrical safety
-* Equipment testing, documentation and lifecycle support
-* Medical gas and hospital utility-system exposure
+<p>
+  <img
+    src="https://img.shields.io/badge/Medical_Equipment-Maintenance-276044?style=flat-square"
+    alt="Medical equipment maintenance"
+  />
+  <img
+    src="https://img.shields.io/badge/Preventive-Maintenance-276044?style=flat-square"
+    alt="Preventive maintenance"
+  />
+  <img
+    src="https://img.shields.io/badge/Quality-Assurance-276044?style=flat-square"
+    alt="Quality assurance"
+  />
+  <img
+    src="https://img.shields.io/badge/Electrical-Safety-276044?style=flat-square"
+    alt="Electrical safety"
+  />
+  <img
+    src="https://img.shields.io/badge/Clinical-Systems-276044?style=flat-square"
+    alt="Clinical systems"
+  />
+</p>
+
+- Medical-device support and technical troubleshooting
+- Preventive maintenance and equipment inspection
+- Clinical engineering and hospital technology environments
+- Medical-device quality assurance and electrical safety
+- Equipment testing, documentation and lifecycle support
+- Medical gas and hospital utility-system exposure
+- Critical-care, theatre, laboratory and diagnostic environments
 
 ### Healthcare Software & Backend Engineering
 
-* Python, Django, Flask and FastAPI
-* REST APIs and backend architecture
-* Authentication and role-based access
-* PostgreSQL, MySQL, SQLite and Firebase
-* Healthcare workflow and asset-management systems
-* Secure and maintainable application development
+<p>
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
+    alt="Django"
+  />
+  <img
+    src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"
+    alt="FastAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/REST-APIs-5B876B?style=flat-square"
+    alt="REST APIs"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111"
+    alt="JavaScript"
+  />
+</p>
+
+- Python, Django, Flask and FastAPI
+- REST APIs and backend architecture
+- Authentication and role-based access
+- PostgreSQL, MySQL, SQLite and Firebase
+- Healthcare workflow and asset-management systems
+- Secure and maintainable application development
 
 ### Automation & Operational Systems
 
-* Workflow automation and process improvement
-* Digital equipment and maintenance tracking
-* Structured reporting and documentation
-* API-driven operational workflows
-* Git, GitHub and Linux development
-* Docker and deployment-ready application structures
+<p>
+  <img
+    src="https://img.shields.io/badge/Workflow-Automation-3B7A57?style=flat-square"
+    alt="Workflow automation"
+  />
+  <img
+    src="https://img.shields.io/badge/Equipment-Tracking-3B7A57?style=flat-square"
+    alt="Equipment tracking"
+  />
+  <img
+    src="https://img.shields.io/badge/Technical-Documentation-3B7A57?style=flat-square"
+    alt="Technical documentation"
+  />
+  <img
+    src="https://img.shields.io/badge/Operational-Systems-3B7A57?style=flat-square"
+    alt="Operational systems"
+  />
+</p>
+
+- Workflow automation and process improvement
+- Digital equipment and maintenance tracking
+- Structured reporting and technical documentation
+- API-driven operational workflows
+- System monitoring and data handling
+- Deployment-ready application structures
 
 ### Device & Software Integration
 
-* Hardware-software workflow design
-* Medical-device data and user-interface concepts
-* Connected healthcare-system development
-* Health-technology research and prototyping
-* Device-oriented software applications
-* Practical point-of-care technology concepts
+- Hardware-software workflow design
+- Medical-device data and interface concepts
+- Connected healthcare-system development
+- Health-technology research and prototyping
+- Device-oriented software applications
+- Practical point-of-care technology concepts
 
 ---
 
-## Selected Health-Tech Work
+## Technology Stack
+
+### Backend
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=python,django,flask,fastapi"
+    alt="Backend technologies"
+  />
+</p>
+
+### Frontend
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react"
+    alt="Frontend technologies"
+  />
+</p>
+
+### Data & Infrastructure
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,azure,linux,git,github"
+    alt="Data and infrastructure technologies"
+  />
+</p>
+
+---
+
+## Selected Health-Technology Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### Clinic-at-Hand Lab System
 
-Hardware-software integrated diagnostic system connecting clinical device functionality, data capture and software workflows for practical point-of-care use.
+Hardware-software integrated diagnostic system connecting clinical-device functionality, data capture and software workflows for practical point-of-care use.
+
+**Focus areas**
+
+- Medical-device integration
+- Diagnostic workflows
+- Point-of-care technology
+- Hardware-software communication
+- Structured health data
+
+<a href="https://gonepharm.com/clinic-at-hand/">View Clinic at Hand</a>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### GONEP Health Technology
 
 Healthcare technology work involving digital platforms, diagnostic solutions, operational systems and technology designed around accessible healthcare delivery.
 
+**Focus areas**
+
+- Healthcare software
+- Diagnostic technology
+- Workflow automation
+- Internal systems
+- Health-technology delivery
+
+<a href="https://gonepharm.com/">Visit GONEP</a>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 ### OnlineMedic Healthcare
 
-Independent healthcare platform concept developed using Python and Django, including backend services, REST APIs, authentication and healthcare-oriented workflows.
+Independent healthcare platform concept developed using Python and Django.
 
-### Medical Equipment Management Systems
+**Focus areas**
 
-Digital system concepts supporting equipment registration, QR-code identification, preventive maintenance, service tracking, manufacturer collaboration and healthcare-facility operations.
+- Backend services
+- REST APIs
+- Authentication
+- Healthcare workflows
+- Structured data processes
+
+    </td>
+    <td width="50%" valign="top">
+
+### Medical Equipment Management System
+
+Healthcare equipment-management platform focused on equipment registration, QR identification, preventive maintenance, service records and facility operations.
+
+**Focus areas**
+
+- Equipment lifecycle tracking
+- Maintenance scheduling
+- QR-code identification
+- Multi-facility workflows
+- Manufacturer collaboration
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Other Software Projects
 
-* Django backend foundations
-* Healthcare symptom-checker applications
-* Multi-tenant healthcare platforms
-* Bulk SMS and communication systems
-* Workflow and reporting automation
-* Business websites and operational platforms
-* Python utilities and system prototypes
+- Django backend foundations
+- Healthcare symptom-checker applications
+- Multi-tenant healthcare systems
+- Bulk SMS and communication platforms
+- Workflow and reporting automation
+- Business websites and operational platforms
+- Python utilities and system prototypes
 
-Explore the repositories on my [GitHub profile](https://github.com/scriptedSyntax) or visit my [portfolio](https://scriptedsyntax.github.io/portfolio/).
+<p align="center">
+  <a href="https://github.com/scriptedSyntax?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore repositories"
+    />
+  </a>
+</p>
+
+---
+
+## Professional Experience
+
+### Senior Software Engineer
+
+**GONEP Pharmaceuticals · August 2025–Present**
+
+Develop healthcare software, backend systems and workflow automation using Python, Django and REST APIs. Support hardware-software integration, technical documentation and health-technology initiatives.
+
+### Biomedical Engineering Technologist
+
+**Kenyatta University Teaching, Referral & Research Hospital and Thika Level 5 Hospital**
+
+Supported equipment inspection, preventive maintenance, troubleshooting and installation activities. Gained exposure to critical-care, theatre, renal, laboratory, radiology and hospital utility systems.
+
+### Founder & Backend Developer
+
+**OnlineMedic Healthcare · Independent Project**
+
+Designed a healthcare platform concept using Python, Django, REST APIs, authentication and healthcare-oriented workflow functionality.
 
 ---
 
@@ -127,69 +402,143 @@ Explore the repositories on my [GitHub profile](https://github.com/scriptedSynta
 
 ### Diploma in Medical Engineering Technology
 
-**Kenya Medical Training College — 2024**
+**Kenya Medical Training College · 2024**
 
-Training included clinical engineering, medical-equipment maintenance, health informatics, electronics, engineering mathematics, mechanical systems and medical-device technology.
+Training included:
+
+- Clinical engineering
+- Medical-equipment maintenance
+- Health informatics
+- Electronics
+- Engineering mathematics
+- Mechanical systems
+- Medical-device technology
 
 ### Specialised Medical-Device Training
 
-* Medical Device Quality Assurance
-* Medical Device Electrical Safety
-* Neonatal Medical Device Quality Assurance
-* ProSim 4 and ProSim 8 Patient Simulation
-* NIBP Monitoring and Test Optimisation
-* Defibrillator and AED Testing
-* Diagnostic Imaging Technology
-* Oxygen Access and Infrastructure Quality Assurance
+<p>
+  <img
+    src="https://img.shields.io/badge/Fluke_Biomedical-Technical_Training-276044?style=for-the-badge"
+    alt="Fluke Biomedical training"
+  />
+  <img
+    src="https://img.shields.io/badge/GE_HealthCare-Clinical_Systems-3B7A57?style=for-the-badge"
+    alt="GE HealthCare training"
+  />
+</p>
 
-Training completed through organisations including **Fluke Biomedical, GE HealthCare and regional biomedical engineering associations**.
+- Medical Device Quality Assurance
+- Medical Device Electrical Safety
+- Neonatal Medical Device Quality Assurance
+- ProSim 4 and ProSim 8 Patient Simulation
+- NIBP Monitoring and Test Optimisation
+- Defibrillator and AED Testing
+- Diagnostic Imaging Technology
+- Oxygen Access and Infrastructure Quality Assurance
+
+Training was completed through organisations including **Fluke Biomedical, GE HealthCare and regional biomedical engineering associations**.
 
 ---
 
 ## Professional Strengths
 
-* Biomedical engineering and software systems perspective
-* Practical understanding of healthcare technology environments
-* Structured problem-solving and technical troubleshooting
-* Clear communication across technical and non-technical teams
-* Technical documentation and workflow development
-* End-to-end ownership from requirements to implementation
-* Continuous learning across medical devices and software
+- Biomedical engineering and software-systems perspective
+- Practical understanding of healthcare technology environments
+- Structured problem-solving and technical troubleshooting
+- Clear communication across technical and non-technical teams
+- Technical documentation and workflow development
+- End-to-end ownership from requirements to implementation
+- Continuous learning across medical devices and software
 
 ---
 
-## Current Interests
+## Current Professional Interests
 
-I am particularly interested in:
+- Biomedical and clinical engineering
+- Global health technology
+- Affordable medical-device development
+- Point-of-care diagnostic systems
+- Healthcare equipment management
+- Medical-device quality assurance
+- Hardware-software integration
+- Healthcare software and automation
+- Technologies for low-resource healthcare environments
 
-* Biomedical and clinical engineering
-* Global health technology
-* Medical-device development
-* Point-of-care diagnostic systems
-* Healthcare equipment management
-* Medical-device quality assurance
-* Hardware-software integration
-* Healthcare software and automation
-* Technologies for low-resource healthcare environments
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=scriptedSyntax&show_icons=true&hide_border=true&title_color=276044&icon_color=3B7A57&text_color=65746C&bg_color=00000000"
+    width="49%"
+    alt="Samuel Mwangi Ngonjo GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptedSyntax&layout=compact&hide_border=true&title_color=276044&text_color=65746C&bg_color=00000000"
+    width="41%"
+    alt="Samuel Mwangi Ngonjo most used programming languages"
+  />
+</p>
 
 ---
 
 ## Online Presence
 
-* **Portfolio:** https://scriptedsyntax.github.io/portfolio/
-* **GitHub:** https://github.com/scriptedSyntax
-* **LinkedIn:** https://www.linkedin.com/in/samuel-mwangi-11597a245/
-* **YouTube:** https://www.youtube.com/@SamPlifiedBytes
-* **Email:** [samuel.mwas97@gmail.com](mailto:samuel.mwas97@gmail.com)
+<p align="center">
+  <a href="https://scriptedsyntax.github.io/portfolio/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-scriptedSyntax-276044?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Samuel_Mwangi_Ngonjo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.youtube.com/@SamPlifiedBytes">
+    <img
+      src="https://img.shields.io/badge/YouTube-SamPlifiedBytes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
+  </a>
+  <a href="mailto:samuel.mwas97@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-samuel.mwas97%40gmail.com-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 
 ---
 
 ## Why Work With Me
 
-I understand both sides of healthcare technology: the physical medical equipment used in clinical environments and the digital systems needed to manage data, workflows, maintenance and reporting.
+I understand both sides of healthcare technology:
+
+**The physical medical equipment used in clinical environments and the digital systems needed to manage data, workflows, maintenance and reporting.**
 
 My focus is straightforward:
 
-**Build dependable technology that solves real healthcare and operational problems.**
+<p align="center">
+  <strong>
+    Build dependable technology that solves real healthcare and operational problems.
+  </strong>
+</p>
 
-> Medical devices. Clinical systems. Software integration. Technology that works where it matters.
+<p align="center">
+  <em>
+    Medical devices · Clinical systems · Software integration · Technology that works where it matters
+  </em>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:70a987,50:276044,100:0e1512"
+    width="100%"
+    alt=""
+  />
+</p>
+```
