@@ -1,105 +1,195 @@
-<h1 align="center">Samuel Mwangi</h1>
-<p align="center"><strong>Tech Growth Engineer — Software & Systems</strong></p>
+<h1 align="center">Samuel Mwangi Ngonjo</h1>
 
 <p align="center">
-  <a href="https://scriptedsyntax.github.io/site/">Personal Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
-  <a href="mailto:samuelmwas262@gmail.com">Email</a> ·
+  <img
+    src="./assets/samuel-mwangi-profile.jpg"
+    width="155"
+    alt="Samuel Mwangi Ngonjo profile photo"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-Systems-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Enabled_Platforms-2f66ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Azure-Ready-0078D4?style=flat-square" />
+  <strong>Biomedical Engineering Technologist | Health-Tech Developer | Medical Devices & Software Integration</strong>
+</p>
+
+<p align="center">
+  <a href="https://scriptedsyntax.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@SamPlifiedBytes">YouTube</a> ·
+  <a href="mailto:samuel.mwas97@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Medical_Devices-Clinical_Systems-276044?style=flat-square" alt="Medical Devices and Clinical Systems" />
+  <img src="https://img.shields.io/badge/HealthTech-Software_Integration-3b7a57?style=flat-square" alt="Health Technology and Software Integration" />
+  <img src="https://img.shields.io/badge/Python-Django-3776AB?style=flat-square" alt="Python and Django" />
+  <img src="https://img.shields.io/badge/Hardware-Software_Integration-5b876b?style=flat-square" alt="Hardware and Software Integration" />
 </p>
 
 ---
 
 ## Overview
 
-I design and build backend systems that are **reliable, maintainable, and ready for real-world operations**.  
-My work focuses on **automation, backend engineering, and operational platforms** where uptime, data integrity, and scalability matter.
+I am a **Biomedical Engineering Technologist and health-technology developer** working across medical devices, clinical systems, healthcare software and hardware-software integration.
 
-I combine a **biomedical engineering foundation** with **software and systems engineering**, bridging physical systems, data, and software in environments where failure is not an option.
+My background combines practical biomedical engineering exposure in hospital environments with software development using **Python, Django, REST APIs, databases and workflow automation**.
+
+I currently work as a **Senior Software Engineer at GONEP Pharmaceuticals**, contributing to healthcare software, internal systems, automation and technology initiatives connecting digital workflows with healthcare operations.
 
 ---
 
 ## What I Do
 
-- Build **production-grade backend platforms**
-- Replace manual processes with **automation**
-- Design systems for **reliability, scale, and long-term maintainability**
-- Support **operational and healthcare-adjacent systems**
-- Integrate **AI capabilities** into practical workflows
+* Support the development of **healthcare and clinical technology systems**
+* Build backend applications using **Python, Django and REST APIs**
+* Connect medical-device requirements with practical software workflows
+* Develop automation tools for operational and healthcare processes
+* Support equipment information, maintenance and reporting systems
+* Produce structured technical documentation and system workflows
 
 ---
 
 ## Core Technical Focus
 
-### Backend Engineering & Integrations
-- Python (Django, Flask, FastAPI)
-- RESTful APIs and backend architecture
-- Authentication, security, data interoperability
-- AI-enabled backend systems
+### Biomedical Engineering & Clinical Systems
+
+* Medical-device support and technical troubleshooting
+* Preventive maintenance and equipment inspection
+* Clinical engineering and hospital technology environments
+* Medical-device quality assurance and electrical safety
+* Equipment testing, documentation and lifecycle support
+* Medical gas and hospital utility-system exposure
+
+### Healthcare Software & Backend Engineering
+
+* Python, Django, Flask and FastAPI
+* REST APIs and backend architecture
+* Authentication and role-based access
+* PostgreSQL, MySQL, SQLite and Firebase
+* Healthcare workflow and asset-management systems
+* Secure and maintainable application development
 
 ### Automation & Operational Systems
-- Workflow automation and system optimization
-- CI/CD pipelines, logging, monitoring
-- API-driven process improvement
-- CMMS and health-tech system digitization
 
-### Data & Infrastructure
-- PostgreSQL, MySQL, SQLite, Firebase
-- Data pipelines and analytics workflows (Pandas, NumPy)
-- Linux, Git, container-ready environments
-- Device connectivity and IoT integrations
+* Workflow automation and process improvement
+* Digital equipment and maintenance tracking
+* Structured reporting and documentation
+* API-driven operational workflows
+* Git, GitHub and Linux development
+* Docker and deployment-ready application structures
 
-### AI Platforms & Cloud
-- Azure App Services (deployment & scaling)
-- Azure AI Search & Document Intelligence (integration exposure)
-- Prompt-based workflows & AI orchestration
-- AI-backed document processing and semantic search
+### Device & Software Integration
+
+* Hardware-software workflow design
+* Medical-device data and user-interface concepts
+* Connected healthcare-system development
+* Health-technology research and prototyping
+* Device-oriented software applications
+* Practical point-of-care technology concepts
 
 ---
 
-## Systems I’ve Built
+## Selected Health-Tech Work
 
-- **Management systems** supporting real operations
-- **Backend platforms** designed for reliability and uptime
-- **Automation tools** that eliminate manual workflows
-- **Healthcare & operational APIs** with strong security constraints
-- **AI-enabled systems** for document processing and search
+### Clinic-at-Hand Lab System
+
+Hardware-software integrated diagnostic system connecting clinical device functionality, data capture and software workflows for practical point-of-care use.
+
+### GONEP Health Technology
+
+Healthcare technology work involving digital platforms, diagnostic solutions, operational systems and technology designed around accessible healthcare delivery.
+
+### OnlineMedic Healthcare
+
+Independent healthcare platform concept developed using Python and Django, including backend services, REST APIs, authentication and healthcare-oriented workflows.
+
+### Medical Equipment Management Systems
+
+Digital system concepts supporting equipment registration, QR-code identification, preventive maintenance, service tracking, manufacturer collaboration and healthcare-facility operations.
+
+---
+
+## Other Software Projects
+
+* Django backend foundations
+* Healthcare symptom-checker applications
+* Multi-tenant healthcare platforms
+* Bulk SMS and communication systems
+* Workflow and reporting automation
+* Business websites and operational platforms
+* Python utilities and system prototypes
+
+Explore the repositories on my [GitHub profile](https://github.com/scriptedSyntax) or visit my [portfolio](https://scriptedsyntax.github.io/portfolio/).
+
+---
+
+## Education & Technical Training
+
+### Diploma in Medical Engineering Technology
+
+**Kenya Medical Training College — 2024**
+
+Training included clinical engineering, medical-equipment maintenance, health informatics, electronics, engineering mathematics, mechanical systems and medical-device technology.
+
+### Specialised Medical-Device Training
+
+* Medical Device Quality Assurance
+* Medical Device Electrical Safety
+* Neonatal Medical Device Quality Assurance
+* ProSim 4 and ProSim 8 Patient Simulation
+* NIBP Monitoring and Test Optimisation
+* Defibrillator and AED Testing
+* Diagnostic Imaging Technology
+* Oxygen Access and Infrastructure Quality Assurance
+
+Training completed through organisations including **Fluke Biomedical, GE HealthCare and regional biomedical engineering associations**.
 
 ---
 
 ## Professional Strengths
 
-- Strong systems thinking and operational awareness
-- Clear communication across technical and non-technical teams
-- End-to-end ownership: design → build → deploy
-- Accurate documentation, SOP development, compliance support
-- Field-tested in environments where reliability matters
+* Biomedical engineering and software systems perspective
+* Practical understanding of healthcare technology environments
+* Structured problem-solving and technical troubleshooting
+* Clear communication across technical and non-technical teams
+* Technical documentation and workflow development
+* End-to-end ownership from requirements to implementation
+* Continuous learning across medical devices and software
+
+---
+
+## Current Interests
+
+I am particularly interested in:
+
+* Biomedical and clinical engineering
+* Global health technology
+* Medical-device development
+* Point-of-care diagnostic systems
+* Healthcare equipment management
+* Medical-device quality assurance
+* Hardware-software integration
+* Healthcare software and automation
+* Technologies for low-resource healthcare environments
 
 ---
 
 ## Online Presence
 
-- **GitHub:** https://github.com/scriptedSyntax  
-- **LinkedIn:** https://www.linkedin.com/in/samuel-mwangi-11597a245  
-- **YouTube:** https://www.youtube.com/@SamPlifiedBytes  
-- **Email:** samuelmwas262@gmail.com
-- **Portfolio:** https://scriptedsyntax.github.io/portfolio
+* **Portfolio:** https://scriptedsyntax.github.io/portfolio/
+* **GitHub:** https://github.com/scriptedSyntax
+* **LinkedIn:** https://www.linkedin.com/in/samuel-mwangi-11597a245/
+* **YouTube:** https://www.youtube.com/@SamPlifiedBytes
+* **Email:** [samuel.mwas97@gmail.com](mailto:samuel.mwas97@gmail.com)
 
 ---
 
 ## Why Work With Me
 
-I focus on building systems that **work consistently**, scale responsibly, and remain maintainable long after delivery.
+I understand both sides of healthcare technology: the physical medical equipment used in clinical environments and the digital systems needed to manage data, workflows, maintenance and reporting.
 
-No noise.  
-No over-engineering.  
-Just dependable software built for real use.
+My focus is straightforward:
 
-> _Let’s build systems that last._
+**Build dependable technology that solves real healthcare and operational problems.**
+
+> Medical devices. Clinical systems. Software integration. Technology that works where it matters.
