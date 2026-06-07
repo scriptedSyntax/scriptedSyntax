@@ -1,43 +1,35 @@
-```markdown
 <!-- =========================================================
      SAMUEL MWANGI NGONJO — GITHUB PROFILE README
 
-     Required files in repository root:
+     Required files in the repository root:
      README.md
      samuel-mwangi-profile.jpg
 
-     The circular profile image is loaded from:
+     The profile photo loads from:
      https://raw.githubusercontent.com/scriptedSyntax/scriptedSyntax/main/samuel-mwangi-profile.jpg
-
-     The blue check below is decorative and represents a
-     completed professional profile. It is not GitHub verification.
 ========================================================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Biomedical%20Engineering%20Technologist%20%7C%20Health-Tech%20Developer&descAlignY=58&descSize=15"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Biomedical%20Engineering%20Technologist%20%7C%20Health-Tech%20Developer&descAlignY=59&descSize=16"
     width="100%"
     alt="Samuel Mwangi Ngonjo profile banner"
   />
 </p>
 
-<!-- Circular LinkedIn-style profile photo -->
-
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=raw.githubusercontent.com/scriptedSyntax/scriptedSyntax/main/samuel-mwangi-profile.jpg&w=220&h=220&fit=cover&a=attention&mask=circle&output=png"
+    src="https://wsrv.nl/?url=raw.githubusercontent.com/scriptedSyntax/scriptedSyntax/main/samuel-mwangi-profile.jpg&w=230&h=230&fit=cover&a=attention&mask=circle&output=png"
     width="185"
     height="185"
     alt="Samuel Mwangi Ngonjo profile photo"
   />
 </p>
 
-<!-- Decorative professional check badge -->
-
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Professional_Profile-%E2%9C%93-0A66C2?style=for-the-badge"
-    alt="Professional profile check"
+    src="https://img.shields.io/badge/PROFESSIONAL_PROFILE-✓_ALIGNED-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"
+    alt="Professionally aligned profile"
   />
 </p>
 
@@ -64,6 +56,12 @@
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.youtube.com/@SamPlifiedBytes">
+    <img
+      src="https://img.shields.io/badge/YouTube-SamPlifiedBytes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
     />
   </a>
   <a href="mailto:samuel.mwas97@gmail.com">
@@ -101,45 +99,34 @@ I am a **Biomedical Engineering Technologist and health-technology developer** w
 
 My background combines practical biomedical engineering exposure in hospital environments with software development using **Python, Django, REST APIs, databases and workflow automation**.
 
-I currently work as a **Senior Software Engineer at GONEP Pharmaceuticals**, contributing to healthcare software, internal systems, automation and technology initiatives connecting digital workflows with healthcare operations.
+I currently work as a **Senior Software Engineer at GONEP Pharmaceuticals**, contributing to healthcare software, internal systems, automation and technology initiatives that connect digital workflows with healthcare operations.
 
 My strongest value is the ability to understand both sides of healthcare technology:
 
-- The physical medical equipment used in clinical environments
-- The digital systems required to manage data, workflows, maintenance and reporting
+* The physical medical equipment used in clinical environments
+* The digital systems required to manage data, workflows, maintenance and reporting
 
 ---
 
 ## What I Do
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### Biomedical Engineering
 
-- Support medical-device and clinical technology systems
-- Perform equipment inspection and technical troubleshooting
-- Apply preventive-maintenance principles
-- Support medical-device quality assurance
-- Work with technical records and documentation
-- Understand hospital utility and clinical environments
-
-    </td>
-    <td width="50%" valign="top">
+* Support medical-device and clinical technology systems
+* Perform equipment inspection and technical troubleshooting
+* Apply preventive-maintenance principles
+* Support medical-device quality assurance
+* Work with technical records and documentation
+* Understand hospital utility and clinical environments
 
 ### Healthcare Software
 
-- Build backend applications using Python and Django
-- Develop REST APIs and database-driven systems
-- Implement authentication and role-based access
-- Automate operational and healthcare workflows
-- Develop equipment and maintenance-tracking systems
-- Connect device requirements with software processes
-
-    </td>
-  </tr>
-</table>
+* Build backend applications using Python and Django
+* Develop REST APIs and database-driven systems
+* Implement authentication and role-based access
+* Automate operational and healthcare workflows
+* Develop equipment and maintenance-tracking systems
+* Connect medical-device requirements with software processes
 
 ---
 
@@ -170,13 +157,13 @@ My strongest value is the ability to understand both sides of healthcare technol
   />
 </p>
 
-- Medical-device support and technical troubleshooting
-- Preventive maintenance and equipment inspection
-- Clinical engineering and hospital technology environments
-- Medical-device quality assurance and electrical safety
-- Equipment testing, documentation and lifecycle support
-- Medical gas and hospital utility-system exposure
-- Critical-care, theatre, laboratory and diagnostic environments
+* Medical-device support and technical troubleshooting
+* Preventive maintenance and equipment inspection
+* Clinical engineering and hospital technology environments
+* Medical-device quality assurance and electrical safety
+* Equipment testing, documentation and lifecycle support
+* Medical gas and hospital utility-system exposure
+* Critical-care, theatre, laboratory and diagnostic environments
 
 ### Healthcare Software & Backend Engineering
 
@@ -203,12 +190,12 @@ My strongest value is the ability to understand both sides of healthcare technol
   />
 </p>
 
-- Python, Django, Flask and FastAPI
-- REST APIs and backend architecture
-- Authentication and role-based access
-- PostgreSQL, MySQL, SQLite and Firebase
-- Healthcare workflow and asset-management systems
-- Secure and maintainable application development
+* Python, Django, Flask and FastAPI
+* REST APIs and backend architecture
+* Authentication and role-based access
+* PostgreSQL, MySQL, SQLite and Firebase
+* Healthcare workflow and asset-management systems
+* Secure and maintainable application development
 
 ### Automation & Operational Systems
 
@@ -231,21 +218,21 @@ My strongest value is the ability to understand both sides of healthcare technol
   />
 </p>
 
-- Workflow automation and process improvement
-- Digital equipment and maintenance tracking
-- Structured reporting and technical documentation
-- API-driven operational workflows
-- System monitoring and data handling
-- Deployment-ready application structures
+* Workflow automation and process improvement
+* Digital equipment and maintenance tracking
+* Structured reporting and technical documentation
+* API-driven operational workflows
+* System monitoring and data handling
+* Deployment-ready application structures
 
 ### Device & Software Integration
 
-- Hardware-software workflow design
-- Medical-device data and interface concepts
-- Connected healthcare-system development
-- Health-technology research and prototyping
-- Device-oriented software applications
-- Practical point-of-care technology concepts
+* Hardware-software workflow design
+* Medical-device data and user-interface concepts
+* Connected healthcare-system development
+* Health-technology research and prototyping
+* Device-oriented software applications
+* Practical point-of-care technology concepts
 
 ---
 
@@ -282,26 +269,19 @@ My strongest value is the ability to understand both sides of healthcare technol
 
 ## Selected Health-Technology Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### Clinic-at-Hand Lab System
 
-Hardware-software integrated diagnostic system connecting clinical-device functionality, data capture and software workflows for practical point-of-care use.
+A hardware-software integrated diagnostic system connecting clinical-device functionality, data capture and software workflows for practical point-of-care use.
 
 **Focus areas**
 
-- Medical-device integration
-- Diagnostic workflows
-- Point-of-care technology
-- Hardware-software communication
-- Structured health data
+* Medical-device integration
+* Diagnostic workflows
+* Point-of-care technology
+* Hardware-software communication
+* Structured health data
 
-<a href="https://gonepharm.com/clinic-at-hand/">View Clinic at Hand</a>
-
-    </td>
-    <td width="50%" valign="top">
+[View Clinic at Hand](https://gonepharm.com/clinic-at-hand/)
 
 ### GONEP Health Technology
 
@@ -309,61 +289,49 @@ Healthcare technology work involving digital platforms, diagnostic solutions, op
 
 **Focus areas**
 
-- Healthcare software
-- Diagnostic technology
-- Workflow automation
-- Internal systems
-- Health-technology delivery
+* Healthcare software
+* Diagnostic technology
+* Workflow automation
+* Internal systems
+* Health-technology delivery
 
-<a href="https://gonepharm.com/">Visit GONEP</a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+[Visit GONEP](https://gonepharm.com/)
 
 ### OnlineMedic Healthcare
 
-Independent healthcare platform concept developed using Python and Django.
+An independent healthcare platform concept developed using Python and Django.
 
 **Focus areas**
 
-- Backend services
-- REST APIs
-- Authentication
-- Healthcare workflows
-- Structured data processes
-
-    </td>
-    <td width="50%" valign="top">
+* Backend services
+* REST APIs
+* Authentication
+* Healthcare workflows
+* Structured data processes
 
 ### Medical Equipment Management System
 
-Healthcare equipment-management platform focused on equipment registration, QR identification, preventive maintenance, service records and facility operations.
+A healthcare equipment-management platform focused on equipment registration, QR identification, preventive maintenance, service records and facility operations.
 
 **Focus areas**
 
-- Equipment lifecycle tracking
-- Maintenance scheduling
-- QR-code identification
-- Multi-facility workflows
-- Manufacturer collaboration
-
-    </td>
-  </tr>
-</table>
+* Equipment lifecycle tracking
+* Maintenance scheduling
+* QR-code identification
+* Multi-facility workflows
+* Manufacturer collaboration
 
 ---
 
 ## Other Software Projects
 
-- Django backend foundations
-- Healthcare symptom-checker applications
-- Multi-tenant healthcare systems
-- Bulk SMS and communication platforms
-- Workflow and reporting automation
-- Business websites and operational platforms
-- Python utilities and system prototypes
+* Django backend foundations
+* Healthcare symptom-checker applications
+* Multi-tenant healthcare systems
+* Bulk SMS and communication platforms
+* Workflow and reporting automation
+* Business websites and operational platforms
+* Python utilities and system prototypes
 
 <p align="center">
   <a href="https://github.com/scriptedSyntax?tab=repositories">
@@ -406,13 +374,13 @@ Designed a healthcare platform concept using Python, Django, REST APIs, authenti
 
 Training included:
 
-- Clinical engineering
-- Medical-equipment maintenance
-- Health informatics
-- Electronics
-- Engineering mathematics
-- Mechanical systems
-- Medical-device technology
+* Clinical engineering
+* Medical-equipment maintenance
+* Health informatics
+* Electronics
+* Engineering mathematics
+* Mechanical systems
+* Medical-device technology
 
 ### Specialised Medical-Device Training
 
@@ -427,14 +395,14 @@ Training included:
   />
 </p>
 
-- Medical Device Quality Assurance
-- Medical Device Electrical Safety
-- Neonatal Medical Device Quality Assurance
-- ProSim 4 and ProSim 8 Patient Simulation
-- NIBP Monitoring and Test Optimisation
-- Defibrillator and AED Testing
-- Diagnostic Imaging Technology
-- Oxygen Access and Infrastructure Quality Assurance
+* Medical Device Quality Assurance
+* Medical Device Electrical Safety
+* Neonatal Medical Device Quality Assurance
+* ProSim 4 and ProSim 8 Patient Simulation
+* NIBP Monitoring and Test Optimisation
+* Defibrillator and AED Testing
+* Diagnostic Imaging Technology
+* Oxygen Access and Infrastructure Quality Assurance
 
 Training was completed through organisations including **Fluke Biomedical, GE HealthCare and regional biomedical engineering associations**.
 
@@ -442,27 +410,27 @@ Training was completed through organisations including **Fluke Biomedical, GE He
 
 ## Professional Strengths
 
-- Biomedical engineering and software-systems perspective
-- Practical understanding of healthcare technology environments
-- Structured problem-solving and technical troubleshooting
-- Clear communication across technical and non-technical teams
-- Technical documentation and workflow development
-- End-to-end ownership from requirements to implementation
-- Continuous learning across medical devices and software
+* Biomedical engineering and software-systems perspective
+* Practical understanding of healthcare technology environments
+* Structured problem-solving and technical troubleshooting
+* Clear communication across technical and non-technical teams
+* Technical documentation and workflow development
+* End-to-end ownership from requirements to implementation
+* Continuous learning across medical devices and software
 
 ---
 
 ## Current Professional Interests
 
-- Biomedical and clinical engineering
-- Global health technology
-- Affordable medical-device development
-- Point-of-care diagnostic systems
-- Healthcare equipment management
-- Medical-device quality assurance
-- Hardware-software integration
-- Healthcare software and automation
-- Technologies for low-resource healthcare environments
+* Biomedical and clinical engineering
+* Global health technology
+* Affordable medical-device development
+* Point-of-care diagnostic systems
+* Healthcare equipment management
+* Medical-device quality assurance
+* Hardware-software integration
+* Healthcare software and automation
+* Technologies for low-resource healthcare environments
 
 ---
 
@@ -538,7 +506,6 @@ My focus is straightforward:
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:70a987,50:276044,100:0e1512"
     width="100%"
-    alt=""
+    alt="Profile footer"
   />
 </p>
-```
