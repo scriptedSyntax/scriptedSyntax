@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Biomedical%20Engineering%20Technologist%20%7C%20Health-Tech%20Developer&descAlignY=59&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer%20%7C%20Business%20Applications&descAlignY=59&descSize=16"
     width="100%"
     alt="Samuel Mwangi Ngonjo profile banner"
   />
@@ -28,8 +28,8 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/PROFESSIONAL_PROFILE-✓_ALIGNED-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"
-    alt="Professionally aligned profile"
+    src="https://img.shields.io/badge/READY_FOR-BUSINESS_APPLICATIONS-276044?style=for-the-badge&logo=checkmarx&logoColor=white"
+    alt="Ready for business applications"
   />
 </p>
 
@@ -37,12 +37,12 @@
 
 <p align="center">
   <strong>
-    Biomedical Engineering Technologist · Health-Tech Developer · Medical Devices & Software Integration
+    Full-Stack Developer · Systems Engineer · Backend & Business Applications
   </strong>
 </p>
 
 <p align="center">
-  I connect biomedical engineering, clinical systems and software to build practical technology for real healthcare and operational needs.
+  I build practical software systems that turn business, healthcare and operational workflows into reliable digital platforms.
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
       alt="YouTube"
     />
   </a>
-  <a href="mailto:samuel.mwas97@gmail.com">
+  <a href="mailto:samuelmwas262@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact_Me-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
@@ -74,20 +74,20 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Medical_Devices-Clinical_Systems-276044?style=flat-square"
-    alt="Medical Devices and Clinical Systems"
+    src="https://img.shields.io/badge/Backend_Engineering-Python_&_Django-3776AB?style=flat-square&logo=python&logoColor=white"
+    alt="Backend Engineering"
   />
   <img
-    src="https://img.shields.io/badge/HealthTech-Software_Integration-3B7A57?style=flat-square"
-    alt="Health Technology and Software Integration"
+    src="https://img.shields.io/badge/Business_Applications-Workflow_Systems-276044?style=flat-square"
+    alt="Business Applications"
   />
   <img
-    src="https://img.shields.io/badge/Python-Django-3776AB?style=flat-square&logo=python&logoColor=white"
-    alt="Python and Django"
+    src="https://img.shields.io/badge/Automation-Operational_Efficiency-3B7A57?style=flat-square"
+    alt="Automation"
   />
   <img
-    src="https://img.shields.io/badge/Hardware-Software_Integration-5B876B?style=flat-square"
-    alt="Hardware and Software Integration"
+    src="https://img.shields.io/badge/Databases-SQL_&_NoSQL-5B876B?style=flat-square"
+    alt="Databases"
   />
 </p>
 
@@ -95,77 +95,46 @@
 
 ## Professional Overview
 
-I am a **Biomedical Engineering Technologist and health-technology developer** working across medical devices, clinical systems, healthcare software and hardware-software integration.
+I am a **Full-Stack Developer and Systems Engineer** focused on backend systems, business applications, workflow automation, data-driven platforms and health-technology software.
 
-My background combines practical biomedical engineering exposure in hospital environments with software development using **Python, Django, REST APIs, databases and workflow automation**.
+My work combines **Python, Django, REST APIs, SQL databases, frontend development and deployment-ready application structures**. I enjoy taking real operational problems, understanding the workflow behind them and turning them into clean, usable software.
 
-I currently work as a **Senior Software Engineer at GONEP Pharmaceuticals**, contributing to healthcare software, internal systems, automation and technology initiatives that connect digital workflows with healthcare operations.
-
-My strongest value is the ability to understand both sides of healthcare technology:
-
-* The physical medical equipment used in clinical environments
-* The digital systems required to manage data, workflows, maintenance and reporting
+My biomedical engineering background strengthens how I approach software: I think in systems, troubleshoot carefully, document clearly and design solutions that can work in real operational environments.
 
 ---
 
-## What I Do
+## What I Build
 
-### Biomedical Engineering
-
-* Support medical-device and clinical technology systems
-* Perform equipment inspection and technical troubleshooting
-* Apply preventive-maintenance principles
-* Support medical-device quality assurance
-* Work with technical records and documentation
-* Understand hospital utility and clinical environments
-
-### Healthcare Software
-
-* Build backend applications using Python and Django
-* Develop REST APIs and database-driven systems
-* Implement authentication and role-based access
-* Automate operational and healthcare workflows
-* Develop equipment and maintenance-tracking systems
-* Connect medical-device requirements with software processes
-
----
-
-## Core Technical Focus
-
-### Biomedical Engineering & Clinical Systems
+### Business & Operational Systems
 
 <p>
   <img
-    src="https://img.shields.io/badge/Medical_Equipment-Maintenance-276044?style=flat-square"
-    alt="Medical equipment maintenance"
+    src="https://img.shields.io/badge/Internal_Systems-Business_Applications-276044?style=flat-square"
+    alt="Internal systems"
   />
   <img
-    src="https://img.shields.io/badge/Preventive-Maintenance-276044?style=flat-square"
-    alt="Preventive maintenance"
+    src="https://img.shields.io/badge/Workflow-Automation-3B7A57?style=flat-square"
+    alt="Workflow automation"
   />
   <img
-    src="https://img.shields.io/badge/Quality-Assurance-276044?style=flat-square"
-    alt="Quality assurance"
+    src="https://img.shields.io/badge/Reporting-Dashboards-5B876B?style=flat-square"
+    alt="Reporting dashboards"
   />
   <img
-    src="https://img.shields.io/badge/Electrical-Safety-276044?style=flat-square"
-    alt="Electrical safety"
-  />
-  <img
-    src="https://img.shields.io/badge/Clinical-Systems-276044?style=flat-square"
-    alt="Clinical systems"
+    src="https://img.shields.io/badge/User_Management-Role_Based_Access-276044?style=flat-square"
+    alt="User management"
   />
 </p>
 
-* Medical-device support and technical troubleshooting
-* Preventive maintenance and equipment inspection
-* Clinical engineering and hospital technology environments
-* Medical-device quality assurance and electrical safety
-* Equipment testing, documentation and lifecycle support
-* Medical gas and hospital utility-system exposure
-* Critical-care, theatre, laboratory and diagnostic environments
+* Internal business applications
+* Workflow automation tools
+* Staff and user-management platforms
+* Reporting dashboards
+* Data-entry and records systems
+* Role-based application workflows
+* Process digitization tools
 
-### Healthcare Software & Backend Engineering
+### Backend & API Platforms
 
 <p>
   <img
@@ -184,59 +153,76 @@ My strongest value is the ability to understand both sides of healthcare technol
     src="https://img.shields.io/badge/REST-APIs-5B876B?style=flat-square"
     alt="REST APIs"
   />
+</p>
+
+* Python and Django applications
+* REST API services
+* Authentication and access control
+* Database models and structured data flows
+* Admin dashboards and system logic
+* API-driven integrations
+* Maintainable backend architecture
+
+### Frontend & User Interfaces
+
+<p>
+  <img
+    src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
+    alt="HTML"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"
+    alt="CSS"
+  />
   <img
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111"
     alt="JavaScript"
   />
+  <img
+    src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111"
+    alt="React"
+  />
 </p>
 
-* Python, Django, Flask and FastAPI
-* REST APIs and backend architecture
-* Authentication and role-based access
-* PostgreSQL, MySQL, SQLite and Firebase
-* Healthcare workflow and asset-management systems
-* Secure and maintainable application development
+* Responsive web interfaces
+* HTML, CSS, JavaScript and React interfaces
+* Clean dashboards and forms
+* User-friendly business portals
+* Client-facing websites
+* Mobile-responsive layouts
 
-### Automation & Operational Systems
+### Automation & Data Workflows
 
 <p>
   <img
-    src="https://img.shields.io/badge/Workflow-Automation-3B7A57?style=flat-square"
-    alt="Workflow automation"
+    src="https://img.shields.io/badge/Data_Conversion-Structured_Workflows-276044?style=flat-square"
+    alt="Data conversion"
   />
   <img
-    src="https://img.shields.io/badge/Equipment-Tracking-3B7A57?style=flat-square"
-    alt="Equipment tracking"
+    src="https://img.shields.io/badge/CSV-Exports-3B7A57?style=flat-square"
+    alt="CSV exports"
   />
   <img
-    src="https://img.shields.io/badge/Technical-Documentation-3B7A57?style=flat-square"
-    alt="Technical documentation"
+    src="https://img.shields.io/badge/Documentation-Training_Support-5B876B?style=flat-square"
+    alt="Documentation"
   />
   <img
-    src="https://img.shields.io/badge/Operational-Systems-3B7A57?style=flat-square"
-    alt="Operational systems"
+    src="https://img.shields.io/badge/Testing-Debugging-276044?style=flat-square"
+    alt="Testing and debugging"
   />
 </p>
 
-* Workflow automation and process improvement
-* Digital equipment and maintenance tracking
-* Structured reporting and technical documentation
-* API-driven operational workflows
-* System monitoring and data handling
-* Deployment-ready application structures
-
-### Device & Software Integration
-
-* Hardware-software workflow design
-* Medical-device data and user-interface concepts
-* Connected healthcare-system development
-* Health-technology research and prototyping
-* Device-oriented software applications
-* Practical point-of-care technology concepts
+* Manual-process reduction
+* Structured reports
+* Data conversion workflows
+* CSV/export-ready systems
+* Operational tracking tools
+* Documentation-ready system logic
+* Debugging and testing support
 
 ---
 
-## Technology Stack
+## Core Technical Stack
 
 ### Backend
 
@@ -247,6 +233,14 @@ My strongest value is the ability to understand both sides of healthcare technol
   />
 </p>
 
+* Python
+* Django
+* Flask
+* FastAPI
+* REST APIs
+* Authentication and access control
+* Backend architecture
+
 ### Frontend
 
 <p>
@@ -255,6 +249,13 @@ My strongest value is the ability to understand both sides of healthcare technol
     alt="Frontend technologies"
   />
 </p>
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Responsive web design
+* Interface implementation
 
 ### Data & Infrastructure
 
@@ -265,124 +266,205 @@ My strongest value is the ability to understand both sides of healthcare technol
   />
 </p>
 
+* PostgreSQL
+* MySQL
+* SQLite
+* Firebase
+* Docker
+* Azure basics
+* Linux
+* Git and GitHub
+
 ---
 
-## Selected Health-Technology Work
+## Featured Software Work
 
-### Clinic-at-Hand Lab System
+### GONEP Pharmaceuticals Systems Work
 
-A hardware-software integrated diagnostic system connecting clinical-device functionality, data capture and software workflows for practical point-of-care use.
-
-**Focus areas**
-
-* Medical-device integration
-* Diagnostic workflows
-* Point-of-care technology
-* Hardware-software communication
-* Structured health data
-
-[View Clinic at Hand](https://gonepharm.com/clinic-at-hand/)
-
-### GONEP Health Technology
-
-Healthcare technology work involving digital platforms, diagnostic solutions, operational systems and technology designed around accessible healthcare delivery.
+Contributed to internal software systems, healthcare technology workflows, automation tools and digital platforms supporting operational efficiency.
 
 **Focus areas**
 
-* Healthcare software
-* Diagnostic technology
-* Workflow automation
+* Backend development
 * Internal systems
-* Health-technology delivery
+* Workflow automation
+* Healthcare software
+* Technical documentation
+* System improvement
 
 [Visit GONEP](https://gonepharm.com/)
 
-### OnlineMedic Healthcare
+---
 
-An independent healthcare platform concept developed using Python and Django.
+### Clinic-at-Hand Lab System
 
-**Focus areas**
-
-* Backend services
-* REST APIs
-* Authentication
-* Healthcare workflows
-* Structured data processes
-
-### Medical Equipment Management System
-
-A healthcare equipment-management platform focused on equipment registration, QR identification, preventive maintenance, service records and facility operations.
+A hardware-software integrated laboratory system designed around point-of-care workflows, data capture and practical healthcare delivery.
 
 **Focus areas**
 
-* Equipment lifecycle tracking
-* Maintenance scheduling
-* QR-code identification
-* Multi-facility workflows
-* Manufacturer collaboration
+* Software-supported diagnostic workflows
+* Device-oriented application logic
+* Data capture and reporting
+* Hardware-software interaction
+* Healthcare workflow digitization
+
+[View Clinic-at-Hand](https://gonepharm.com/clinic-at-hand/)
 
 ---
 
-## Other Software Projects
+### OnlineMedic Healthcare
 
-* Django backend foundations
-* Healthcare symptom-checker applications
-* Multi-tenant healthcare systems
-* Bulk SMS and communication platforms
-* Workflow and reporting automation
-* Business websites and operational platforms
-* Python utilities and system prototypes
+A healthcare platform concept developed using Python and Django, focused on structured health workflows, backend services and user-facing healthcare features.
 
-<p align="center">
-  <a href="https://github.com/scriptedSyntax?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore repositories"
-    />
-  </a>
+**Focus areas**
+
+* Django backend services
+* REST API structure
+* Authentication
+* Healthcare workflow logic
+* Structured data handling
+
+---
+
+### Client Websites & Business Platforms
+
+Delivered responsive websites and digital solutions for businesses and healthcare organizations, handling design, development, deployment and support.
+
+**Examples**
+
+* GONEP Pharmaceuticals website
+* Ledanie Construction website
+* Business landing pages
+* Operational web tools
+* Automation-ready systems
+
+**Focus areas**
+
+* Frontend implementation
+* Backend setup
+* Responsive design
+* Deployment
+* Client communication
+* Maintenance and improvement
+
+[View Portfolio](https://scriptedsyntax.github.io/portfolio/)
+
+---
+
+## Software Engineering Strengths
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Problem_Solving-Strong-276044?style=flat-square"
+    alt="Problem solving"
+  />
+  <img
+    src="https://img.shields.io/badge/Fast_Learner-Adaptable-3B7A57?style=flat-square"
+    alt="Fast learner"
+  />
+  <img
+    src="https://img.shields.io/badge/Independent_Work-Reliable-5B876B?style=flat-square"
+    alt="Independent work"
+  />
+  <img
+    src="https://img.shields.io/badge/Documentation-Clear-276044?style=flat-square"
+    alt="Documentation"
+  />
 </p>
+
+* I can understand business requirements and translate them into working systems.
+* I write backend logic that supports real workflows, not just static pages.
+* I am comfortable working with databases, forms, APIs and user roles.
+* I can debug issues, test changes and improve existing systems.
+* I document what I build so other users and teams can understand it.
+* I learn new platforms quickly and apply them through hands-on implementation.
+
+---
+
+## Enterprise Software Interests
+
+I am currently interested in growing deeper in enterprise and business software, including:
+
+<p>
+  <img
+    src="https://img.shields.io/badge/ERP_Systems-Learning-276044?style=flat-square"
+    alt="ERP systems"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft_Dynamics_365-Business_Central-0078D4?style=flat-square&logo=microsoft&logoColor=white"
+    alt="Microsoft Dynamics 365 Business Central"
+  />
+  <img
+    src="https://img.shields.io/badge/AL_Language-Interested-3B7A57?style=flat-square"
+    alt="AL Language"
+  />
+  <img
+    src="https://img.shields.io/badge/Data_Migration-Interested-5B876B?style=flat-square"
+    alt="Data migration"
+  />
+</p>
+
+* ERP systems
+* Microsoft Dynamics 365 Business Central
+* Business Central / NAV development concepts
+* AL language and extension development
+* Data migration and conversion
+* System customization
+* Unit testing and integration testing
+* End-user training and documentation
+* Business process automation
 
 ---
 
 ## Professional Experience
 
-### Senior Software Engineer
+### Senior Software Developer / Full-Stack Developer
 
-**GONEP Pharmaceuticals · August 2025–Present**
+**GONEP Pharmaceuticals · August 2025 - December 2025**
 
-Develop healthcare software, backend systems and workflow automation using Python, Django and REST APIs. Support hardware-software integration, technical documentation and health-technology initiatives.
+Developed internal software systems, automation workflows and healthcare technology platforms. Worked across backend logic, frontend implementation, database design, technical documentation and system improvement.
+
+---
+
+### Backend & AI Engineer / Full-Stack Developer
+
+**OnlineMedic Healthcare · November 2024 - March 2025**
+
+Designed Django backend services, REST APIs and AI-enabled healthcare workflows. Worked on structured data processing, automation-ready pipelines and user-facing healthcare features.
+
+---
+
+### Independent & Freelance Full-Stack Developer
+
+**2022 - Present**
+
+Delivered websites, web applications and operational tools for clients and personal projects. Handled planning, design, development, deployment and ongoing improvement.
+
+---
 
 ### Biomedical Engineering Technologist
 
 **Kenyatta University Teaching, Referral & Research Hospital and Thika Level 5 Hospital**
 
-Supported equipment inspection, preventive maintenance, troubleshooting and installation activities. Gained exposure to critical-care, theatre, renal, laboratory, radiology and hospital utility systems.
-
-### Founder & Backend Developer
-
-**OnlineMedic Healthcare · Independent Project**
-
-Designed a healthcare platform concept using Python, Django, REST APIs, authentication and healthcare-oriented workflow functionality.
+Supported equipment inspection, troubleshooting, preventive maintenance, technical documentation and clinical technology workflows in hospital environments.
 
 ---
 
-## Education & Technical Training
+## Education & Training
 
 ### Diploma in Medical Engineering Technology
 
 **Kenya Medical Training College · 2024**
 
-Training included:
+Training included clinical engineering, health informatics, medical-device technology, electronics, engineering mathematics and mechanical systems.
 
-* Clinical engineering
-* Medical-equipment maintenance
-* Health informatics
-* Electronics
-* Engineering mathematics
-* Mechanical systems
-* Medical-device technology
+### Continuous Software Development Training
 
-### Specialised Medical-Device Training
+Self-driven practical training through project development, documentation, backend engineering, frontend implementation, deployment practice and continuous learning across business and healthcare systems.
+
+---
+
+## Certifications & Technical Training
 
 <p>
   <img
@@ -404,33 +486,26 @@ Training included:
 * Diagnostic Imaging Technology
 * Oxygen Access and Infrastructure Quality Assurance
 
-Training was completed through organisations including **Fluke Biomedical, GE HealthCare and regional biomedical engineering associations**.
-
 ---
 
-## Professional Strengths
+## Current Focus
 
-* Biomedical engineering and software-systems perspective
-* Practical understanding of healthcare technology environments
-* Structured problem-solving and technical troubleshooting
-* Clear communication across technical and non-technical teams
-* Technical documentation and workflow development
-* End-to-end ownership from requirements to implementation
-* Continuous learning across medical devices and software
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Python-Backend_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python Backend Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/Django-Business_Applications-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django Business Applications"
+  />
+  <img
+    src="https://img.shields.io/badge/ERP-Learning_Business_Central-276044?style=for-the-badge"
+    alt="ERP Learning"
+  />
+</p>
 
----
-
-## Current Professional Interests
-
-* Biomedical and clinical engineering
-* Global health technology
-* Affordable medical-device development
-* Point-of-care diagnostic systems
-* Healthcare equipment management
-* Medical-device quality assurance
-* Hardware-software integration
-* Healthcare software and automation
-* Technologies for low-resource healthcare environments
+I am focused on building stronger backend systems, business applications, automation workflows and enterprise-ready software skills.
 
 ---
 
@@ -472,9 +547,9 @@ Training was completed through organisations including **Fluke Biomedical, GE He
       alt="YouTube"
     />
   </a>
-  <a href="mailto:samuel.mwas97@gmail.com">
+  <a href="mailto:samuelmwas262@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-samuel.mwas97%40gmail.com-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-samuelmwas262%40gmail.com-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
@@ -484,21 +559,19 @@ Training was completed through organisations including **Fluke Biomedical, GE He
 
 ## Why Work With Me
 
-I understand both sides of healthcare technology:
-
-**The physical medical equipment used in clinical environments and the digital systems needed to manage data, workflows, maintenance and reporting.**
+I combine software development, systems thinking and practical technical troubleshooting.
 
 My focus is straightforward:
 
 <p align="center">
   <strong>
-    Build dependable technology that solves real healthcare and operational problems.
+    Build dependable software that solves real business and operational problems.
   </strong>
 </p>
 
 <p align="center">
   <em>
-    Medical devices · Clinical systems · Software integration · Technology that works where it matters
+    Backend systems · Business applications · Workflow automation · Healthcare technology · Practical software delivery
   </em>
 </p>
 
