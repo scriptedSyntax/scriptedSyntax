@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <a href="https://scriptedsyntax.github.io/portfolio/">
+  <a href="https://scriptedsyntax.github.io/myportfolio/">
     <img
       src="https://img.shields.io/badge/Portfolio-View_Work-276044?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
