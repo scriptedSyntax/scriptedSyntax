@@ -37,7 +37,7 @@
 
 <p align="center">
   <strong>
-    Full-Stack Developer · Systems Engineer · Backend & Business Applications
+    Full-Stack Developer · Biomedical Engineer · Backend & System Applications
   </strong>
 </p>
 
