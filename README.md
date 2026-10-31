@@ -1,17 +1,13 @@
 <!-- =========================================================
      SAMUEL MWANGI NGONJO — GITHUB PROFILE README
 
-     Required files in the repository root:
-     README.md
+     Optional profile image in the repository root:
      samuel-mwangi-profile.jpg
-
-     The profile photo loads from:
-     https://raw.githubusercontent.com/scriptedSyntax/scriptedSyntax/main/samuel-mwangi-profile.jpg
 ========================================================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer%20%7C%20Business%20Applications&descAlignY=59&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Systems%20%7C%20Business%20Applications&descAlignY=59&descSize=16"
     width="100%"
     alt="Samuel Mwangi Ngonjo profile banner"
   />
@@ -28,555 +24,178 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/FOCUS-HEALTHCARE_TECHNOLOGY-276044?style=for-the-badge&logo=checkmarx&logoColor=white"
-    alt="Healthcare technology focus"
+    src="https://img.shields.io/badge/FOCUS-SOFTWARE_&_BUSINESS_SYSTEMS-276044?style=for-the-badge&logo=checkmarx&logoColor=white"
+    alt="Software and business systems focus"
   />
 </p>
 
 <h1 align="center">Samuel Mwangi Ngonjo</h1>
 
 <p align="center">
-  <strong>
-    Healthcare Technology Engineer · Medical Engineering Background · Backend & Full-Stack Systems
-  </strong>
+  <strong>Software Developer · Full-Stack Systems · Biomedical Engineering Background</strong>
 </p>
 
 <p align="center">
-  I build practical software systems for healthcare workflows, clinical operations, device-aware environments and reliable digital service delivery.
+  I build websites, applications, APIs and practical digital systems for businesses and their customers. My biomedical engineering background adds experience with healthcare technology and device-aware workflows, alongside broader software and business projects.
 </p>
 
 <p align="center">
   <a href="https://scriptedsyntax.github.io/myportfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-View_Work-276044?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-276044?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@SamPlifiedBytes">
-    <img
-      src="https://img.shields.io/badge/YouTube-SamPlifiedBytes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
+    <img src="https://img.shields.io/badge/YouTube-SamPlifiedBytes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="SamPlifiedBytes on YouTube" />
   </a>
   <a href="mailto:samuelmwas262@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact_Me-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Samuel" />
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Backend_Engineering-Python_&_Django-3776AB?style=flat-square&logo=python&logoColor=white"
-    alt="Backend Engineering"
-  />
-  <img
-    src="https://img.shields.io/badge/Health--Tech-Clinical_Workflows-276044?style=flat-square"
-    alt="Health-tech clinical workflows"
-  />
-  <img
-    src="https://img.shields.io/badge/Device_Integration-Hardware_+_Software-3B7A57?style=flat-square"
-    alt="Device integration"
-  />
-  <img
-    src="https://img.shields.io/badge/Databases-SQL_&_NoSQL-5B876B?style=flat-square"
-    alt="Databases"
-  />
+  <img src="https://img.shields.io/badge/Backend-Python_&_Django-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and Django" />
+  <img src="https://img.shields.io/badge/Frontend-React_&_JavaScript-276044?style=flat-square&logo=react&logoColor=white" alt="React and JavaScript" />
+  <img src="https://img.shields.io/badge/APIs-REST_&_Integrations-3B7A57?style=flat-square" alt="REST APIs and integrations" />
+  <img src="https://img.shields.io/badge/Data-SQL_&_NoSQL-5B876B?style=flat-square" alt="SQL and NoSQL databases" />
 </p>
 
 ---
 
-## Professional Overview
+## 👋 About Me
 
-I am a **Healthcare Technology Engineer and Full-Stack Developer** with a Medical Engineering background and hands-on exposure to clinical environments, biomedical systems and digital health workflows.
+I am a software developer with experience building full-stack applications, business websites, backend services and workflow tools. I work across frontend interfaces, Python and Django backends, APIs, databases, automation and AI-related projects.
 
-My work combines **Python, Django, REST APIs, SQL databases, frontend development, AI-assisted workflows and hardware-software thinking**. I enjoy taking real healthcare or operational problems, understanding the workflow behind them and turning them into clean, usable software.
+My biomedical engineering background is one part of my experience. It gives me practical context for healthcare and device-integrated systems, while my public work also spans messaging, commerce, inventory, housing, business applications and other software projects.
 
-My biomedical engineering background strengthens how I approach software: I think in systems, troubleshoot carefully, document clearly and design solutions that can work close to real clinical and operational environments.
+I value clear communication, useful interfaces, maintainable code and solutions grounded in the needs of the people using them.
 
----
+## 🛠️ What I Build
 
-## What I Build
+### 🌐 Websites & User Interfaces
 
-### Healthcare & Operational Systems
+- Responsive business and client-facing websites
+- Web application interfaces, forms and dashboards
+- React, JavaScript, HTML and CSS implementations
+- Accessible layouts designed for desktop and mobile
 
-<p>
-  <img
-    src="https://img.shields.io/badge/Internal_Systems-Healthcare_Operations-276044?style=flat-square"
-    alt="Healthcare operations systems"
-  />
-  <img
-    src="https://img.shields.io/badge/Workflow-Automation-3B7A57?style=flat-square"
-    alt="Workflow automation"
-  />
-  <img
-    src="https://img.shields.io/badge/Reporting-Dashboards-5B876B?style=flat-square"
-    alt="Reporting dashboards"
-  />
-  <img
-    src="https://img.shields.io/badge/User_Management-Role_Based_Access-276044?style=flat-square"
-    alt="User management"
-  />
-</p>
+### ⚙️ Backend, APIs & Business Systems
 
-* Healthcare workflow digitization
-* Internal operational systems
-* Lab and point-of-care workflow support
-* Reporting dashboards
-* Data-entry and records systems
-* Role-based application workflows
-* Process digitization tools
+- Python applications using Django, Flask and FastAPI
+- REST APIs, authentication and structured data flows
+- Database-backed tools and operational applications
+- Integrations and workflow automation
 
-### Backend & API Platforms
+### 🤖 AI, Automation & Applied Technology
 
-<p>
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
-    alt="Django"
-  />
-  <img
-    src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"
-    alt="FastAPI"
-  />
-  <img
-    src="https://img.shields.io/badge/REST-APIs-5B876B?style=flat-square"
-    alt="REST APIs"
-  />
-</p>
+- AI-assisted application workflows and chatbot projects
+- Automation tools for repetitive operational tasks
+- Biomedical and device-integrated software projects
+- Continued exploration of machine learning and intelligent features
 
-* Python and Django applications
-* REST API services
-* Authentication and access control
-* Database models and structured healthcare data flows
-* Admin dashboards and system logic
-* API-driven integrations
-* Maintainable backend architecture
-
-### Frontend & User Interfaces
-
-<p>
-  <img
-    src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
-    alt="HTML"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"
-    alt="CSS"
-  />
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111"
-    alt="React"
-  />
-</p>
-
-* Responsive healthcare and business interfaces
-* HTML, CSS, JavaScript and React interfaces
-* Clean dashboards and forms
-* User-friendly portals
-* Client-facing websites
-* Mobile-responsive layouts
-
-### Automation & Data Workflows
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Data_Conversion-Structured_Workflows-276044?style=flat-square"
-    alt="Data conversion"
-  />
-  <img
-    src="https://img.shields.io/badge/CSV-Exports-3B7A57?style=flat-square"
-    alt="CSV exports"
-  />
-  <img
-    src="https://img.shields.io/badge/Documentation-Training_Support-5B876B?style=flat-square"
-    alt="Documentation"
-  />
-  <img
-    src="https://img.shields.io/badge/Testing-Debugging-276044?style=flat-square"
-    alt="Testing and debugging"
-  />
-</p>
-
-* Manual-process reduction
-* Structured reports
-* Data conversion workflows
-* CSV/export-ready systems
-* Operational tracking tools
-* Documentation-ready system logic
-* Debugging and testing support
-
----
-
-## Core Technical Stack
+## 💻 Core Technical Stack
 
 ### Backend
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=python,django,flask,fastapi"
-    alt="Backend technologies"
-  />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" alt="Python, Django, Flask and FastAPI" /></p>
 
-* Python
-* Django
-* Flask
-* FastAPI
-* REST APIs
-* Authentication and access control
-* Backend architecture
+Python · Django · Flask · FastAPI · REST APIs · Authentication
 
 ### Frontend
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react"
-    alt="Frontend technologies"
-  />
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React" /></p>
+
+HTML · CSS · JavaScript · React · Responsive web design
+
+### Data & Delivery
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,azure,linux,git,github" alt="Databases, cloud, Linux and GitHub tools" /></p>
+
+PostgreSQL · MySQL · SQLite · Firebase · Docker · Azure basics · Linux · Git · GitHub Actions
+
+## 🚀 Selected Software Work
+
+### 🏢 Business & Client Websites
+
+- [Gonepharm](https://gonepharm.com/)
+- [Gonepharm Plus](https://plus.gonepharm.com/)
+- [Ledanie Construction](https://ledanieconstruction.com/)
+- [Nova Children's Therapies](https://novachildren.therapies.workers.dev/)
+
+### 🧪 Biomedical & Healthcare Technology
+
+- [Clinic-at-Hand Lab System](https://gonepharm.com/clinic-at-hand/)
+- OnlineMedic healthcare platform work
+- Biomedical engineering and device-aware software projects
+
+### 📦 Public GitHub Projects
+
+Browse the repositories below to read their documentation and inspect the source. Descriptions stay intentionally brief where the repository itself is the best source of detail.
+
+| Project | Repository |
+| --- | --- |
+| ✉️ Bulk SMS System | [Open repository](https://github.com/scriptedSyntax/bulk-sms-system) |
+| 🧭 TourTreck | [Open repository](https://github.com/scriptedSyntax/tourtreck) |
+| 🤖 Next.js AI Chatbot | [Open repository](https://github.com/scriptedSyntax/nextjs-ai-chatbot) |
+| 💬 SMS System · Multi-Tenant | [Open repository](https://github.com/scriptedSyntax/sms-system-multitenant) |
+| 🧩 Project Zer0 | [Open repository](https://github.com/scriptedSyntax/project-zer0) |
+| 📦 Inventory & Client Management System | [Open repository](https://github.com/scriptedSyntax/inventory-and-client-customer-management-system) |
+| 🎓 School Project | [Open repository](https://github.com/scriptedSyntax/school_project) |
+| 🐍 Django Ready-Made Backend | [Open repository](https://github.com/scriptedSyntax/django-with-python-ready-made-backend) |
+| 🩺 Symptom Checker | [Open repository](https://github.com/scriptedSyntax/symptomChecker) |
+| 🧰 Programs | [Open repository](https://github.com/scriptedSyntax/programs) |
+| 🐍 All-in-One Python Projects Portfolio | [Open repository](https://github.com/scriptedSyntax/All-in-One-Python-Projects-Portfolio) |
+| 📚 Business Central AL Book Management | [Open repository](https://github.com/scriptedSyntax/business-central-al-book-management) |
+| 🏠 Kejani House Finder | [Open repository](https://github.com/scriptedSyntax/kejani-house-finder) |
+| ⚡ Next.js Boilerplate | [Open repository](https://github.com/scriptedSyntax/nextjs-boilerplate) |
+| 🛒 Next.js Commerce | [Open repository](https://github.com/scriptedSyntax/nextjs-commerce) |
+| 🎉 funTime | [Open repository](https://github.com/scriptedSyntax/funTime) |
+| 🃏 Card Imposer | [Open repository](https://github.com/scriptedSyntax/card_imposer) |
+
+<p align="center">
+  <a href="https://github.com/scriptedSyntax?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-276044?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories" /></a>
+  <a href="https://scriptedsyntax.github.io/myportfolio/"><img src="https://img.shields.io/badge/See_Live_Work-3B7A57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See live work" /></a>
 </p>
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Responsive web design
-* Interface implementation
+## 🧠 How I Work
 
-### Data & Infrastructure
+- I start by understanding the user, goal and existing workflow.
+- I build in practical steps and keep the interface clear.
+- I connect frontend, backend and data flows into usable systems.
+- I document, troubleshoot and refine as requirements evolve.
+- I collaborate with clients and specialists where a project needs it.
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,azure,linux,git,github"
-    alt="Data and infrastructure technologies"
-  />
-</p>
-
-* PostgreSQL
-* MySQL
-* SQLite
-* Firebase
-* Docker
-* Azure basics
-* Linux
-* Git and GitHub
-
----
-
-## Featured Software Work
-
-### GONEP Pharmaceuticals Systems Work
-
-Contributed to internal software systems, healthcare technology workflows, automation tools and digital platforms supporting clinical-adjacent operations and product delivery.
-
-**Focus areas**
-
-* Backend development
-* Internal systems
-* Workflow automation
-* Healthcare software
-* Digital health workflows
-* Technical documentation
-* System improvement
-
-[Visit GONEP](https://gonepharm.com/)
-
----
-
-### Clinic-at-Hand Lab System
-
-A hardware-software integrated laboratory system designed around point-of-care workflows, data capture and practical healthcare delivery.
-
-**Focus areas**
-
-* Software-supported diagnostic workflows
-* Device-oriented application logic
-* Data capture and reporting
-* Hardware-software interaction
-* Healthcare workflow digitization
-
-[View Clinic-at-Hand](https://gonepharm.com/clinic-at-hand/)
-
----
-
-### OnlineMedic Healthcare
-
-A healthcare platform developed around Python and Django, focused on structured health workflows, backend services, AI-enabled automation and user-facing healthcare features.
-
-**Focus areas**
-
-* Django backend services
-* REST API structure
-* Authentication
-* Healthcare workflow logic
-* Structured data handling
-
----
-
-### Client Websites & Operational Platforms
-
-Delivered responsive websites and digital solutions for businesses and healthcare organizations, handling design, development, deployment and support.
-
-**Examples**
-
-* GONEP Pharmaceuticals website
-* Ledanie Construction website
-* Business landing pages
-* Operational web tools
-* Automation-ready systems
-
-**Focus areas**
-
-* Frontend implementation
-* Backend setup
-* Responsive design
-* Deployment
-* Client communication
-* Maintenance and improvement
-
-[View Portfolio](https://scriptedsyntax.github.io/portfolio/)
-
----
-
-## Software Engineering Strengths
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Problem_Solving-Strong-276044?style=flat-square"
-    alt="Problem solving"
-  />
-  <img
-    src="https://img.shields.io/badge/Fast_Learner-Adaptable-3B7A57?style=flat-square"
-    alt="Fast learner"
-  />
-  <img
-    src="https://img.shields.io/badge/Independent_Work-Reliable-5B876B?style=flat-square"
-    alt="Independent work"
-  />
-  <img
-    src="https://img.shields.io/badge/Documentation-Clear-276044?style=flat-square"
-    alt="Documentation"
-  />
-</p>
-
-* I can understand healthcare and operational requirements and translate them into working systems.
-* I write backend logic that supports real workflows, not just static pages.
-* I am comfortable working with databases, forms, APIs and user roles.
-* I can debug issues, test changes and improve existing systems.
-* I document what I build so other users and teams can understand it.
-* I learn new platforms quickly and apply them through hands-on implementation.
-
----
-
-## Currently Learning / Continuous Development
-
-I am actively growing the engineering depth needed for stronger healthcare technology systems. Progress values are intentionally left open until confirmed.
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Docker-Progress_TBC-276044?style=flat-square&logo=docker&logoColor=white"
-    alt="Docker progress to be confirmed"
-  />
-  <img
-    src="https://img.shields.io/badge/Cloud_Architecture-Progress_TBC-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
-    alt="Cloud architecture progress to be confirmed"
-  />
-  <img
-    src="https://img.shields.io/badge/GraphQL-Progress_TBC-3B7A57?style=flat-square"
-    alt="GraphQL progress to be confirmed"
-  />
-  <img
-    src="https://img.shields.io/badge/Business_Central_AL-Progress_TBC-5B876B?style=flat-square"
-    alt="Business Central AL progress to be confirmed"
-  />
-</p>
-
-* Docker - containerized deployment for reliable health-tech systems
-* Cloud architecture - scalable deployment patterns for digital health platforms
-* GraphQL - flexible APIs for structured application data
-* Microsoft Dynamics 365 Business Central / AL - enterprise workflow and operations systems
-* Data migration and conversion - moving operational records into cleaner digital systems
-* Unit testing and integration testing - safer releases for systems people rely on
-
----
-
-## Professional Experience
-
-### Senior Software Developer / Full-Stack Developer
-
-**GONEP Pharmaceuticals · August 2025 - December 2025**
-
-Developed internal software systems, automation workflows and healthcare technology platforms. Worked across backend logic, frontend implementation, database design, technical documentation and system improvement for clinical-adjacent operations.
-
----
-
-### Backend & AI Engineer / Full-Stack Developer
-
-**OnlineMedic Healthcare · November 2024 - March 2025**
-
-Designed Django backend services, REST APIs and AI-enabled healthcare workflows. Worked on structured data processing, automation-ready pipelines and user-facing healthcare features.
-
----
-
-### Independent & Freelance Full-Stack Developer
-
-**2022 - Present**
-
-Delivered websites, web applications and operational tools for clients and personal projects, including healthcare and business-facing digital products. Handled planning, design, development, deployment and ongoing improvement.
-
----
-
-### Biomedical Engineering Technologist
-
-**Kenyatta University Teaching, Referral & Research Hospital and Thika Level 5 Hospital**
-
-Supported equipment inspection, troubleshooting, preventive maintenance, technical documentation and clinical technology workflows in hospital environments. This experience shapes how I design software for reliability, documentation and real-world use.
-
----
-
-## Education & Training
+## 📚 Education & Development
 
 ### Diploma in Medical Engineering Technology
 
-**Kenya Medical Training College · 2024**
+Kenya Medical Training College · Awarded 2024
 
-Training included clinical engineering, health informatics, medical-device technology, electronics, engineering mathematics and mechanical systems.
+My technical background includes medical-device systems, clinical engineering, health informatics, electronics and engineering practice. I continue to develop my software skills through hands-on projects, technical documentation and ongoing study.
 
-### Continuous Software Development Training
+### Currently Exploring
 
-Self-driven practical training through project development, documentation, backend engineering, frontend implementation, deployment practice and continuous learning across business and healthcare systems.
+🐳 Docker · ☁️ Cloud architecture · 🕸️ GraphQL · 🧠 Machine learning · 🏢 Business Central AL · 🧪 Software testing
 
----
-
-## Certifications & Technical Training
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Fluke_Biomedical-Technical_Training-276044?style=for-the-badge"
-    alt="Fluke Biomedical training"
-  />
-  <img
-    src="https://img.shields.io/badge/GE_HealthCare-Clinical_Systems-3B7A57?style=for-the-badge"
-    alt="GE HealthCare training"
-  />
-</p>
-
-* Medical Device Quality Assurance
-* Medical Device Electrical Safety
-* Neonatal Medical Device Quality Assurance
-* ProSim 4 and ProSim 8 Patient Simulation
-* NIBP Monitoring and Test Optimisation
-* Defibrillator and AED Testing
-* Diagnostic Imaging Technology
-* Oxygen Access and Infrastructure Quality Assurance
-
----
-
-## Current Focus
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Python-Backend_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python Backend Engineering"
-  />
-  <img
-    src="https://img.shields.io/badge/Django-Healthcare_Workflows-092E20?style=for-the-badge&logo=django&logoColor=white"
-    alt="Django Healthcare Workflows"
-  />
-  <img
-    src="https://img.shields.io/badge/ERP-Learning_Business_Central-276044?style=for-the-badge"
-    alt="ERP Learning"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptedSyntax&show_icons=true&hide_border=true&title_color=276044&icon_color=3B7A57&text_color=65746C&bg_color=00000000" width="49%" alt="Samuel's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptedSyntax&layout=compact&hide_border=true&title_color=276044&text_color=65746C&bg_color=00000000" width="41%" alt="Most used programming languages" />
 </p>
 
-I am focused on building stronger backend systems, healthcare workflow tools, automation pipelines, device-aware applications and enterprise-ready software skills.
+## 🤝 Let's Connect
 
----
-
-## GitHub Activity
+Have a website, application, integration or business workflow in mind? I’m open to project conversations and collaboration.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=scriptedSyntax&show_icons=true&hide_border=true&title_color=276044&icon_color=3B7A57&text_color=65746C&bg_color=00000000"
-    width="49%"
-    alt="Samuel Mwangi Ngonjo GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptedSyntax&layout=compact&hide_border=true&title_color=276044&text_color=65746C&bg_color=00000000"
-    width="41%"
-    alt="Samuel Mwangi Ngonjo most used programming languages"
-  />
+  <a href="mailto:samuelmwas262@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email to start a conversation" /></a>
+  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
----
-
-## Online Presence
+<p align="center"><strong>💡 Practical software · Clear user experiences · Systems built around real needs</strong></p>
 
 <p align="center">
-  <a href="https://scriptedsyntax.github.io/portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-scriptedSyntax-276044?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Samuel_Mwangi_Ngonjo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://www.youtube.com/@SamPlifiedBytes">
-    <img
-      src="https://img.shields.io/badge/YouTube-SamPlifiedBytes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
-  </a>
-  <a href="mailto:samuelmwas262@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-samuelmwas262%40gmail.com-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
-
----
-
-## Why Work With Me
-
-I combine software development, medical engineering thinking and practical technical troubleshooting.
-
-My focus is straightforward:
-
-<p align="center">
-  <strong>
-    Build dependable software that improves healthcare operations, access and reliability.
-  </strong>
-</p>
-
-<p align="center">
-  <em>
-    Backend systems · Digital health workflows · Device integration · AI programming · Practical healthcare technology
-  </em>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:70a987,50:276044,100:0e1512"
-    width="100%"
-    alt="Profile footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:70a987,50:276044,100:0e1512" width="100%" alt="Profile footer" />
 </p>
