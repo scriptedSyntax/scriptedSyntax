@@ -178,12 +178,6 @@ My technical background includes medical-device systems, clinical engineering, h
 
 🐳 Docker · ☁️ Cloud architecture · 🕸️ GraphQL · 🧠 Machine learning · 🏢 Business Central AL · 🧪 Software testing
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptedSyntax&show_icons=true&hide_border=true&title_color=276044&icon_color=3B7A57&text_color=65746C&bg_color=00000000" width="49%" alt="Samuel's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptedSyntax&layout=compact&hide_border=true&title_color=276044&text_color=65746C&bg_color=00000000" width="41%" alt="Most used programming languages" />
-</p>
 
 ## 🤝 Let's Connect
 
