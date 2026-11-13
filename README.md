@@ -1,12 +1,12 @@
 
 <!-- =========================================================
      SAMUEL MWANGI NGONJO — GITHUB PROFILE README
-     Software Engineering | Full-Stack Development
+     Technical Capabilities | Software Engineering
 ========================================================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20Django%20%7C%20Full-Stack%20Development&descAlignY=59&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1512,50:276044,100:70a987&text=Samuel%20Mwangi%20Ngonjo&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Full-Stack%20Development&descAlignY=59&descSize=16"
     width="100%"
     alt="Samuel Mwangi Ngonjo profile banner"
   />
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  I design, build, test and maintain software applications, backend services and business systems. I work across Python, Django, React, APIs, databases and system integrations, taking projects from initial requirements through implementation and deployment.
+  I design, build, test and maintain software applications, backend services and business systems. I work across application architecture, databases, APIs, frontend development and system integrations, taking projects from requirements through implementation and deployment.
 </p>
 
 <p align="center">
@@ -27,260 +27,209 @@
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-276044?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:samuelmwas97@gmail.com">
+  <a href="mailto:samuel.mwas97@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-276044?style=flat-square" alt="REST APIs" />
-</p>
+---
+
+## <img src="https://api.iconify.design/lucide/code-2.svg?color=%23276044" width="23" alt="Code" /> Engineering Capabilities
+
+### <img src="https://api.iconify.design/lucide/server.svg?color=%23276044" width="19" alt="Backend" /> Backend Engineering
+
+- Design and implementation of backend applications and services.
+- Modular application architecture and separation of concerns.
+- REST API development, integration and request handling.
+- Authentication, authorization and role-based access control.
+- Database modelling, relationships and query management.
+- Multi-tenant architecture and organisation-based data isolation.
+- Business logic, validation and application workflows.
+- Error handling, debugging and backend optimisation.
+
+### <img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%23276044" width="19" alt="Frontend" /> Frontend Engineering
+
+- Development of responsive web applications and interfaces.
+- Component-based application development.
+- Interactive dashboards, forms and administrative interfaces.
+- Frontend and backend integration.
+- API consumption and asynchronous data handling.
+- Application state management and user interaction.
+- Responsive layouts for desktop and mobile devices.
+
+### <img src="https://api.iconify.design/lucide/database.svg?color=%23276044" width="19" alt="Database" /> Database Engineering
+
+- Relational database design and normalisation.
+- Primary keys, foreign keys and entity relationships.
+- Data modelling and structured information management.
+- Query development and database operations.
+- Data validation and integrity constraints.
+- Organisation-specific data access and isolation.
+- Application-to-database integration.
+
+### <img src="https://api.iconify.design/lucide/network.svg?color=%23276044" width="19" alt="Integrations" /> APIs & System Integrations
+
+- RESTful API design and implementation.
+- Third-party service integration.
+- Frontend-to-backend communication.
+- Data exchange between independent services.
+- Authentication and protected endpoints.
+- Application workflows involving external services.
+- Device-aware software and hardware integration.
+
+### <img src="https://api.iconify.design/lucide/bot.svg?color=%23276044" width="19" alt="Automation" /> AI & Automation
+
+- AI-assisted application development.
+- Integration of AI services into web applications.
+- Chatbot and interactive application development.
+- Workflow automation and data processing.
+- Practical automation of repetitive business processes.
+- Exploration of machine learning and intelligent applications.
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT_ME-276044?style=flat-square" height="22" alt="About me" />
+## <img src="https://api.iconify.design/lucide/layers-3.svg?color=%23276044" width="23" alt="Technology stack" /> Technical Stack
 
-I am a software developer with practical experience designing and developing full-stack applications, backend services, business platforms and workflow automation tools.
-
-I independently take software projects from requirements and system design through database modelling, backend implementation, frontend development, testing and deployment.
-
-My primary development experience is centred around Python, Django, JavaScript, React and API-driven applications.
-
-I have built applications across different domains, including messaging platforms, inventory management, e-commerce, healthcare technology, business websites and operational systems.
-
-My background in Medical Engineering Technology also gives me practical exposure to healthcare environments, medical equipment and device-integrated workflows.
-
-I value sound engineering decisions, readable code, reliable systems, maintainable architecture and solving problems through practical software.
-
-## <img src="https://img.shields.io/badge/02-ENGINEERING_FOCUS-276044?style=flat-square" height="22" alt="Engineering focus" />
-
-### Backend Engineering
-
-- Python application development.
-- Django, Django REST Framework, Flask and FastAPI.
-- REST API design, implementation and integration.
-- Authentication, authorization and role-based access control.
-- Database modelling, relationships and query handling.
-- Multi-tenant application architecture and data isolation.
-- Business logic and backend service development.
-
-### Full-Stack Development
-
-- React and JavaScript application development.
-- Responsive interfaces, dashboards and forms.
-- Frontend and backend integration.
-- API consumption and application state management.
-- E-commerce and business application workflows.
-- End-to-end application development.
-
-### Software Quality & Testing
-
-- Automated testing and test-driven verification where appropriate.
-- Manual application and API testing.
-- Debugging and troubleshooting.
-- Input validation and edge-case handling.
-- Functional testing and regression checks.
-- Identifying and resolving application errors.
-
-### Systems & Integrations
-
-- Database-backed business applications.
-- Third-party API integrations.
-- Workflow automation.
-- Device-aware software development.
-- Data processing and information management.
-- Application deployment and maintenance.
-
-## <img src="https://img.shields.io/badge/03-TECHNICAL_STACK-276044?style=flat-square" height="22" alt="Technical stack" />
-
-### Languages
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,php,laravel&theme=light" alt="Backend technology icons" />
 </p>
-
-Python · JavaScript · TypeScript · PHP · HTML5 · CSS3
-
-### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,laravel" alt="Backend frameworks" />
-</p>
-
-Django · Flask · FastAPI · Node.js · Laravel · REST APIs
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" alt="Frontend technology icons" />
 </p>
 
-React · Next.js · JavaScript · Tailwind CSS · Responsive UI
-
-### Databases & Data Management
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=light" alt="Database technology icons" />
 </p>
 
-PostgreSQL · MySQL · SQLite · Firebase · Relational Database Design · Data Modelling
-
-### Development Tools & Infrastructure
+### Development & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,postman,vscode" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,postman,vscode&theme=light" alt="Development and infrastructure technology icons" />
 </p>
 
-Git · GitHub · GitHub Actions · Linux · Docker · Azure App Services (basic) · Postman
+---
 
-## <img src="https://img.shields.io/badge/04-SELECTED_PROJECTS-276044?style=flat-square" height="22" alt="Selected projects" />
+## <img src="https://api.iconify.design/lucide/folder-code.svg?color=%23276044" width="23" alt="Projects" /> Selected Engineering Projects
 
-My projects demonstrate practical application development, backend engineering, database design, integrations and software problem-solving.
+A selection of independently developed applications and software projects. Explore the repositories for implementation details and source code.
 
 ### Backend & Business Systems
 
-| Project | Description | Technology |
+| Project | Description | Source |
 |---|---|---|
-| [Bulk SMS System](https://github.com/scriptedSyntax/bulk-sms-system) | Application for managing and sending bulk SMS messages. | Web technologies |
-| [Multi-Tenant SMS Platform](https://github.com/scriptedSyntax/sms-system-multitenant) | Multi-tenant messaging application with organisation-based data separation. | Web technologies |
-| [Inventory & Client Management](https://github.com/scriptedSyntax/inventory-and-client-customer-management-system) | Business application for managing inventory, clients and customer records. | PHP, MySQL |
-| [TourTreck](https://github.com/scriptedSyntax/tourtreck) | E-commerce application with a Django REST backend and Next.js storefront. | Django, Next.js, TypeScript |
+| Bulk SMS System | Messaging application for managing and sending bulk SMS. | [Repository](https://github.com/scriptedSyntax/bulk-sms-system) |
+| Multi-Tenant SMS Platform | Organisation-based messaging platform with separate data access and management workflows. | [Repository](https://github.com/scriptedSyntax/sms-system-multitenant) |
+| Inventory & Client Management | Business application for managing inventory, clients and customer records. | [Repository](https://github.com/scriptedSyntax/inventory-and-client-customer-management-system) |
+| TourTreck | E-commerce application with a Django REST backend and Next.js storefront. | [Repository](https://github.com/scriptedSyntax/tourtreck) |
 
 ### Python & Application Development
 
-| Project | Description | Repository |
+| Project | Description | Source |
 |---|---|---|
-| Django Backend | Reusable Django backend foundation. | [Source](https://github.com/scriptedSyntax/django-with-python-ready-made-backend) |
-| Project Zer0 | Automated trading software project. | [Source](https://github.com/scriptedSyntax/project-zer0) |
-| Python Programs | Collection of Python programming projects. | [Source](https://github.com/scriptedSyntax/programs) |
-| Python Projects Portfolio | Python programming exercises and applications. | [Source](https://github.com/scriptedSyntax/All-in-One-Python-Projects-Portfolio) |
-| Card Imposer | Automated prepress tool for arranging card layouts on print sheets. | [Source](https://github.com/scriptedSyntax/card_imposer) |
+| Django Backend | Reusable Django backend foundation. | [Repository](https://github.com/scriptedSyntax/django-with-python-ready-made-backend) |
+| Project Zer0 | Automated trading software project. | [Repository](https://github.com/scriptedSyntax/project-zer0) |
+| Python Programs | Collection of programming projects and utilities. | [Repository](https://github.com/scriptedSyntax/programs) |
+| Python Projects Portfolio | Programming exercises and Python applications. | [Repository](https://github.com/scriptedSyntax/All-in-One-Python-Projects-Portfolio) |
+| Card Imposer | Automated prepress tool for arranging card layouts on print sheets. | [Repository](https://github.com/scriptedSyntax/card_imposer) |
 
 ### Healthcare & Applied Technology
 
-| Project | Description | Repository |
+| Project | Description | Source |
 |---|---|---|
-| Symptom Checker | Interactive web application for guided symptom assessment. | [Source](https://github.com/scriptedSyntax/symptomChecker) |
-| OnlineMedic | Healthcare platform development work. | [Source](https://github.com/scriptedSyntax/onlinemedic) |
-| Clinic-at-Hand | Hardware and software integration for laboratory workflows. | [Project overview](https://gonepharm.com/clinic-at-hand/) |
+| Symptom Checker | Interactive web application for guided symptom assessment. | [Repository](https://github.com/scriptedSyntax/symptomChecker) |
+| OnlineMedic | Healthcare application development work. | [Repository](https://github.com/scriptedSyntax/onlinemedic) |
+| Clinic-at-Hand | Hardware and software integration for laboratory workflows. | [Project Overview](https://gonepharm.com/clinic-at-hand/) |
 
 ### Web Applications & Other Projects
 
-- [Kejani House Finder](https://github.com/scriptedSyntax/kejani-house-finder) — House discovery application.
-- [Business Central AL Book Management](https://github.com/scriptedSyntax/business-central-al-book-management) — Book management and lending application.
-- [School Project](https://github.com/scriptedSyntax/school_project) — Authentication-based school system foundation.
-- [Next.js AI Chatbot](https://github.com/scriptedSyntax/nextjs-ai-chatbot) — AI chatbot application based on an existing starter project.
+| Project | Description | Source |
+|---|---|---|
+| Kejani House Finder | House discovery application. | [Repository](https://github.com/scriptedSyntax/kejani-house-finder) |
+| Business Central AL Book Management | Book management and lending application. | [Repository](https://github.com/scriptedSyntax/business-central-al-book-management) |
+| School Project | Authentication-based school system foundation. | [Repository](https://github.com/scriptedSyntax/school_project) |
+| Next.js AI Chatbot | AI chatbot application based on an existing starter project. | [Repository](https://github.com/scriptedSyntax/nextjs-ai-chatbot) |
 
 <p align="center">
   <a href="https://github.com/scriptedSyntax?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-276044?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-276044?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
   </a>
   <a href="https://scriptedsyntax.github.io/myportfolio/">
-    <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECTS-3B7A57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View live projects" />
+    <img src="https://img.shields.io/badge/View_Live_Projects-3B7A57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live projects" />
   </a>
 </p>
 
-## <img src="https://img.shields.io/badge/05-PROFESSIONAL_EXPERIENCE-276044?style=flat-square" height="22" alt="Professional experience" />
+---
 
-### Software Developer | Gonepharm
+## <img src="https://api.iconify.design/lucide/clipboard-check.svg?color=%23276044" width="23" alt="Quality" /> Software Engineering Practices
 
-August 2025 – Present
+My development process covers the complete application lifecycle, from understanding requirements to testing and maintenance.
 
-- Designed and developed digital applications for business and laboratory operations.
-- Built backend services, application interfaces and database-driven workflows.
-- Worked on software and equipment integration for laboratory and Clinic-at-Hand workflows.
-- Automated compliance reporting, reducing manual work by over 67.4%.
-- Improved existing applications and digitised operational processes.
-- Contributed to technical planning, system development and product delivery.
-
-### Backend Developer | OnlineMedic Healthcare
-
-November 2024 – March 2025
-
-- Developed backend features for healthcare applications using Python and Django.
-- Built services connecting application functionality with databases.
-- Worked on document processing, data extraction and automation.
-- Integrated backend services with React-based interfaces.
-
-### Independent Software Developer | Freelance Projects
-
-2022 – Present
-
-- Independently developed websites, business applications and software systems.
-- Designed databases, implemented application logic and developed user interfaces.
-- Built and integrated APIs and backend services.
-- Managed development, testing, troubleshooting and deployment.
-- Delivered solutions for different business and operational requirements.
-
-## <img src="https://img.shields.io/badge/06-ENGINEERING_PRACTICES-276044?style=flat-square" height="22" alt="Engineering practices" />
-
-My development process focuses on building software that is understandable, testable and maintainable.
-
-| Area | Practices |
+| Engineering Area | Capabilities |
 |---|---|
-| Requirements | Understanding problems, defining requirements and identifying workflows |
-| Architecture | Application structure, service separation and database relationships |
-| Development | Modular code, reusable components and API-driven development |
-| Testing | Automated tests, manual testing, API verification and functional checks |
-| Debugging | Error tracing, issue reproduction and systematic troubleshooting |
-| Security | Authentication, authorization, input validation and data access control |
-| Documentation | Technical documentation, project setup and API usage |
-| Delivery | Version control, deployment and application maintenance |
+| Requirements Analysis | Understanding problems, defining requirements and translating workflows into application features. |
+| System Design | Application architecture, service separation, database structure and data flow design. |
+| Implementation | Modular development, reusable components, backend services and frontend integration. |
+| Testing | Automated testing, manual testing, functional verification and edge-case testing. |
+| Debugging | Issue reproduction, error tracing, troubleshooting and corrective implementation. |
+| Security | Authentication, authorization, input validation and controlled data access. |
+| Version Control | Source management, Git workflows, repository organisation and code changes. |
+| Deployment | Application configuration, environment setup and deployment workflows. |
+| Maintenance | Troubleshooting, feature improvements, refactoring and application updates. |
 
-## <img src="https://img.shields.io/badge/07-TECHNICAL_DOCUMENTATION-276044?style=flat-square" height="22" alt="Technical documentation" />
+## <img src="https://api.iconify.design/lucide/file-text.svg?color=%23276044" width="23" alt="Documentation" /> Technical Documentation
 
-I value documentation as part of software development, not as an afterthought.
+I treat documentation as part of the engineering process, helping make applications easier to understand, test, maintain and extend.
 
-Areas I work with include:
+### Documentation Areas
 
+- **Project Documentation:** Application purpose, features, architecture and project structure.
+- **Installation & Setup:** Dependencies, environment variables, configuration and local development instructions.
 - **API Documentation:** Endpoints, HTTP methods, request payloads, responses and authentication requirements.
-- **Database Documentation:** Models, relationships, primary keys, foreign keys and data structures.
+- **Database Documentation:** Models, relationships, constraints and data structures.
 - **Architecture Documentation:** Application components, service interactions and data flows.
-- **Testing Documentation:** Test cases, expected outcomes, reproduced issues and verification results.
-- **Setup Documentation:** Dependencies, environment configuration and installation instructions.
-- **Developer Handover:** Implementation details, known limitations and maintenance guidance.
+- **Testing Documentation:** Test cases, expected results, reproduced issues and verification procedures.
+- **Developer Handover:** Implementation details, configuration requirements and maintenance considerations.
 
-## <img src="https://img.shields.io/badge/08-EDUCATION-276044?style=flat-square" height="22" alt="Education" />
-
-**Diploma in Medical Engineering Technology**
-
-Kenya Medical Training College (KMTC)  
-Awarded December 2024
-
-Background in medical-device systems, clinical engineering, electronics, healthcare technology and technical maintenance.
-
-## <img src="https://img.shields.io/badge/09-CONTINUOUS_LEARNING-276044?style=flat-square" height="22" alt="Continuous learning" />
-
-Areas of continued technical development:
-
-- Docker and containerisation.
-- Cloud architecture and deployment.
-- GraphQL and API design.
-- Software testing and quality assurance.
-- Machine learning and applied AI.
-- Healthcare interoperability and HL7 concepts.
-- Business Central AL development.
-
-## <img src="https://img.shields.io/badge/10-CONNECT-276044?style=flat-square" height="22" alt="Connect" />
-
-I am open to software engineering opportunities, technical collaborations and projects involving backend engineering, full-stack development, APIs, automation and applied technology.
+## <img src="https://api.iconify.design/lucide/workflow.svg?color=%23276044" width="23" alt="Workflow" /> Development Workflow
 
 <p align="center">
-  <a href="mailto:samuelmwas97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-samuelmwas97%40gmail.com-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=Understand%20%E2%86%92%20Design%20%E2%86%92%20Build%20%E2%86%92%20Test%20%E2%86%92%20Deploy&fontColor=276044&fontSize=19"
+    width="100%"
+    alt="Software development workflow"
+  />
+</p>
+
+1. **Understand:** Analyse the problem, requirements and expected application behaviour.
+2. **Design:** Plan architecture, data structures, application components and service interactions.
+3. **Build:** Implement backend services, interfaces, integrations and application logic.
+4. **Test:** Validate functionality, verify API behaviour, run automated tests and troubleshoot issues.
+5. **Deploy & Maintain:** Configure, deploy, document and improve the application as requirements evolve.
+
+---
+
+## <img src="https://api.iconify.design/lucide/contact.svg?color=%23276044" width="23" alt="Contact" /> Connect
+
+Open to software engineering opportunities, technical collaborations and projects involving backend engineering, full-stack development, APIs, automation and applied technology.
+
+<p align="center">
+  <a href="mailto:samuel.mwas97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-8B3A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-mwangi-11597a245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel_Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://scriptedsyntax.github.io/myportfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Samuel_Mwangi-276044?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore_Work-276044?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
