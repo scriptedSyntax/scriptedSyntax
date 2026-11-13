@@ -12,11 +12,6 @@
   />
 </p>
 
-<h1 align="center">Samuel Mwangi Ngonjo</h1>
-
-<p align="center">
-  <strong>Software Developer | Backend Engineering | Full-Stack Systems</strong>
-</p>
 
 <p align="center">
   I design, build, test and maintain software applications, backend services and business systems. I work across application architecture, databases, APIs, frontend development and system integrations, taking projects from requirements through implementation and deployment.
